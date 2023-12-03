@@ -1,0 +1,8 @@
+whitespace-test:
+  whitespace-0: 0
+  whitespace-1: 1・
+  whitespace-2: 2・・
+  whitespace-3: 3・・・
+  whitespace-4: 4・・・・
+  whitespace-5: 5・・・・・
+# ・は半角スペースを表している
