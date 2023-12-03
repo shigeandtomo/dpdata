@@ -7,9 +7,9 @@ NetCDF support
 * Running on   10 nodes in parallel
 >> Start of run:  28-JAN-2019  12:30:16
 
-                           ***********************       
-                           *  WELCOME TO SIESTA  *       
-                           ***********************       
+                           ***********************
+                           *  WELCOME TO SIESTA  *
+                           ***********************
 
 reinit: Reading from standard input
 ************************** Dump of input data file ****************************
@@ -129,7 +129,7 @@ AtomicCoordinatesFormat Ang
 reinit: -----------------------------------------------------------------------
 reinit: System Name: system
 reinit: -----------------------------------------------------------------------
-reinit: System Label: system                                                      
+reinit: System Label: system
 reinit: -----------------------------------------------------------------------
 
 initatom: Reading input for the pseudopotentials and atomic orbitals ----------
@@ -152,18 +152,18 @@ Si                   Z=  14    Mass=  28.090        Charge= 0.17977+309
 Lmxo=1 Lmxkb= 3    BasisType=split      Semic=F
 L=0  Nsemic=0  Cnfigmx=3
           n=1  nzeta=2  polorb=0
-            splnorm:   0.15000    
-               vcte:    0.0000    
-               rinn:    0.0000    
-                rcs:    0.0000      0.0000    
-            lambdas:    1.0000      1.0000    
+            splnorm:   0.15000
+               vcte:    0.0000
+               rinn:    0.0000
+                rcs:    0.0000      0.0000
+            lambdas:    1.0000      1.0000
 L=1  Nsemic=0  Cnfigmx=3
           n=1  nzeta=2  polorb=1
-            splnorm:   0.15000    
-               vcte:    0.0000    
-               rinn:    0.0000    
-                rcs:    0.0000      0.0000    
-            lambdas:    1.0000      1.0000    
+            splnorm:   0.15000
+               vcte:    0.0000
+               rinn:    0.0000
+                rcs:    0.0000      0.0000
+            lambdas:    1.0000      1.0000
 -------------------------------------------------------------------------------
 L=0  Nkbl=1  erefs: 0.17977+309
 L=1  Nkbl=1  erefs: 0.17977+309
@@ -175,7 +175,7 @@ L=3  Nkbl=1  erefs: 0.17977+309
 atom: Called for Si                    (Z =  14)
 
 read_vps: Pseudopotential generation method:
-read_vps: ATM3      Troullier-Martins                       
+read_vps: ATM3      Troullier-Martins
 Total valence charge:    4.00000
 
 read_vps: Pseudopotential includes a core correction:
@@ -200,7 +200,7 @@ GHOST: No ghost state for L =  1
 GHOST: No ghost state for L =  2
 GHOST: No ghost state for L =  3
 
-KBgen: Kleinman-Bylander projectors: 
+KBgen: Kleinman-Bylander projectors:
    l= 0   rc=  2.306811   el= -0.791441   Ekb=  5.289775   kbcos=  0.291595
    l= 1   rc=  2.394965   el= -0.300632   Ekb=  1.944256   kbcos=  0.287657
    l= 2   rc=  2.549439   el=  0.001958   Ekb= -1.788485   kbcos= -0.056492
@@ -210,7 +210,7 @@ KBgen: Total number of  Kleinman-Bylander projectors:   16
 atom: -------------------------------------------------------------------------
 
 atom: SANKEY-TYPE ORBITALS:
-atom: Selected multiple-zeta basis: split     
+atom: Selected multiple-zeta basis: split
 
 SPLIT: Orbitals with angular momentum L= 0
 
@@ -271,8 +271,8 @@ POLgen: Polarization orbital for state 3p
 atom: Total number of Sankey-type orbitals: 13
 
 atm_pop: Valence configuration (for local Pseudopot. screening):
- 3s( 2.00)                                                            
- 3p( 2.00)                                                            
+ 3s( 2.00)
+ 3p( 2.00)
 Vna: chval, zval:    4.00000   4.00000
 
 Vna:  Cut-off radius for the neutral-atom potential:   6.270866
@@ -282,7 +282,7 @@ atom: _________________________________________________________________________
 
 prinput: Basis input ----------------------------------------------------------
 
-PAO.BasisType split     
+PAO.BasisType split
 
 %block ChemicalSpeciesLabel
     1   14 Si                      # Species index, atomic number, species label
@@ -290,12 +290,12 @@ PAO.BasisType split
 
 %block PAO.Basis                 # Define Basis set
 Si                    2                    # Species label, number of l-shells
- n=3   0   2                         # n, l, Nzeta 
-   5.007      4.419   
-   1.000      1.000   
+ n=3   0   2                         # n, l, Nzeta
+   5.007      4.419
+   1.000      1.000
  n=3   1   2 P   1                   # n, l, Nzeta, Polarization, NzetaPol
-   6.271      5.007   
-   1.000      1.000   
+   6.271      5.007
+   1.000      1.000
 %endblock PAO.Basis
 
 prinput: ----------------------------------------------------------------------
@@ -372,7 +372,7 @@ siesta:     12.91801  18.08521  12.91801  1       62
 siesta:     18.08521  12.91801  12.91801  1       63
 siesta:     18.08521  18.08521  18.08521  1       64
 
-siesta: System type = bulk      
+siesta: System type = bulk
 
 initatomlists: Number of atoms, orbitals, and projectors:     64   832  1024
 
@@ -448,7 +448,7 @@ siesta:                 ==============================
                             Begin MD step =      1
                         ==============================
 
-outcoor: Atomic coordinates (Ang):                          
+outcoor: Atomic coordinates (Ang):
     0.00000000    0.00000000    2.73436500   1       1  Si
     0.00000000    2.73436500    5.46873000   1       2  Si
     2.73436500    2.73436500    8.20309500   1       3  Si
@@ -658,8 +658,8 @@ siesta: Stress tensor (total) (eV/Ang**3):
         -0.000290   -0.000085   -0.005823
 
 siesta: Pressure (total):          9.62593499  kBar
- Anneal: Kinetic Energy=   0.17954985645013899     
- Anneal: Velocity scale factor =    1.0000000025834130     
+ Anneal: Kinetic Energy=   0.17954985645013899
+ Anneal: Velocity scale factor =    1.0000000025834130
 
 siesta: Temp_ion =     300.000 K
 
@@ -669,7 +669,7 @@ siesta:                 ==============================
                             Begin MD step =      2
                         ==============================
 
-outcoor: Atomic coordinates (Ang):                          
+outcoor: Atomic coordinates (Ang):
     0.00655070   -0.01133404    2.73703935   1       1  Si
    -0.00237676    2.73802967    5.46841464   1       2  Si
     2.73704456    2.73150492    8.19781681   1       3  Si
@@ -866,8 +866,8 @@ siesta: Stress tensor (total) (eV/Ang**3):
         -0.000298   -0.000178   -0.005722
 
 siesta: Pressure (total):          9.47447915  kBar
- Anneal: Kinetic Energy=   0.17680786646573926     
- Anneal: Velocity scale factor =    1.0015496322538602     
+ Anneal: Kinetic Energy=   0.17680786646573926
+ Anneal: Velocity scale factor =    1.0015496322538602
 
 siesta: Temp_ion =     296.335 K
 
@@ -877,7 +877,7 @@ siesta:                 ==============================
                             Begin MD step =      3
                         ==============================
 
-outcoor: Atomic coordinates (Ang):                          
+outcoor: Atomic coordinates (Ang):
     0.01291793   -0.02245894    2.73959532   1       1  Si
    -0.00475592    2.74165961    5.46813815   1       2  Si
     2.73975770    2.72872974    8.19268945   1       3  Si
@@ -1069,8 +1069,8 @@ siesta: Stress tensor (total) (eV/Ang**3):
         -0.000347   -0.000252   -0.006147
 
 siesta: Pressure (total):         10.17494302  kBar
- Anneal: Kinetic Energy=   0.16985416128283465     
- Anneal: Velocity scale factor =    1.0056920500736184     
+ Anneal: Kinetic Energy=   0.16985416128283465
+ Anneal: Velocity scale factor =    1.0056920500736184
 
 siesta: Temp_ion =     287.040 K
 
@@ -1080,7 +1080,7 @@ siesta:                 ==============================
                             Begin MD step =      4
                         ==============================
 
-outcoor: Atomic coordinates (Ang):                          
+outcoor: Atomic coordinates (Ang):
     0.01895989   -0.03322799    2.74194006   1       1  Si
    -0.00715196    2.74524268    5.46793589   1       2  Si
     2.74254738    2.72611066    8.18784665   1       3  Si
@@ -1273,8 +1273,8 @@ siesta: Stress tensor (total) (eV/Ang**3):
         -0.000410   -0.000364   -0.006655
 
 siesta: Pressure (total):         10.86782417  kBar
- Anneal: Kinetic Energy=   0.16096598939145190     
- Anneal: Velocity scale factor =    1.0114793288373520     
+ Anneal: Kinetic Energy=   0.16096598939145190
+ Anneal: Velocity scale factor =    1.0114793288373520
 
 siesta: Temp_ion =     275.159 K
 
@@ -1284,7 +1284,7 @@ siesta:                 ==============================
                             Begin MD step =      5
                         ==============================
 
-outcoor: Atomic coordinates (Ang):                          
+outcoor: Atomic coordinates (Ang):
     0.02456440   -0.04353644    2.74400313   1       1  Si
    -0.00958688    2.74877088    5.46784068   1       2  Si
     2.74546159    2.72371030    8.18340696   1       3  Si
@@ -1477,10 +1477,9 @@ siesta: Stress tensor (total) (eV/Ang**3):
         -0.000421   -0.000396   -0.007033
 
 siesta: Pressure (total):         11.43751212  kBar
- Anneal: Kinetic Energy=   0.15186215941078149     
- Anneal: Velocity scale factor =    1.0180688846440400     
+ Anneal: Kinetic Energy=   0.15186215941078149
+ Anneal: Velocity scale factor =    1.0180688846440400
 
 siesta: Temp_ion =     262.991 K
 
 * Maximum dynamic memory allocated =   151 MB
-

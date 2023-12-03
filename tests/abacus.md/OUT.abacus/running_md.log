@@ -1,21 +1,21 @@
-                                                                                     
-                             WELCOME TO ABACUS                                       
-                                                                                     
-               'Atomic-orbital Based Ab-initio Computation at UStc'                  
-                                                                                     
-                     Website: http://abacus.ustc.edu.cn/                             
-                                                                                     
+
+                             WELCOME TO ABACUS
+
+               'Atomic-orbital Based Ab-initio Computation at UStc'
+
+                     Website: http://abacus.ustc.edu.cn/
+
     Version: Parallel, in development
     Processor Number is 4
     Start Time is Wed Apr 13 14:58:14 2022
-                                                                                     
+
  ------------------------------------------------------------------------------------
 
  READING GENERAL INFORMATION
                            global_out_dir = OUT.abacus/
                            global_in_card = INPUT
-                               pseudo_dir = 
-                              orbital_dir = 
+                               pseudo_dir =
+                              orbital_dir =
                               pseudo_type = auto
                                     DRANK = 1
                                     DSIZE = 4
@@ -329,9 +329,9 @@ checkpoint 2
                              nRow_in_proc = 11
                              nCol_in_proc = 11
 receiver_size is 529 ; receiver_size of each process is:
-144 132 132 121 
+144 132 132 121
 sender_size is 436 ; sender_size of each process is:
-144 144 144 4 
+144 144 144 4
                          gamma_only_local = 1
 
  LCAO ALGORITHM ------------- MD =    1  ELEC =    1 --------------------------------
@@ -448,9 +448,9 @@ eigenvalues were copied to ekb
  -------------------------------------------
 
 output Pressure for check!
-Virtual Pressure is +0.364728 Kbar 
-Virial Term is +0.339263 Kbar 
-Kenetic Term is +0.025466 Kbar 
+Virtual Pressure is +0.364728 Kbar
+Virial Term is +0.339263 Kbar
+Kenetic Term is +0.025466 Kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><
@@ -488,9 +488,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    2  ELEC =    1 --------------------------------
@@ -567,9 +567,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    3  ELEC =    1 --------------------------------
@@ -646,9 +646,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    4  ELEC =    1 --------------------------------
@@ -725,9 +725,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    5  ELEC =    1 --------------------------------
@@ -804,9 +804,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    6  ELEC =    1 --------------------------------
@@ -863,9 +863,9 @@ eigenvalues were copied to ekb
  -------------------------------------------
 
 output Pressure for check!
-Virtual Pressure is +0.270990 Kbar 
-Virial Term is +0.243798 Kbar 
-Kenetic Term is +0.027192 Kbar 
+Virtual Pressure is +0.270990 Kbar
+Virial Term is +0.243798 Kbar
+Kenetic Term is +0.027192 Kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><
@@ -903,9 +903,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    7  ELEC =    1 --------------------------------
@@ -982,9 +982,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    8  ELEC =    1 --------------------------------
@@ -1061,9 +1061,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =    9  ELEC =    1 --------------------------------
@@ -1140,9 +1140,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   10  ELEC =    1 --------------------------------
@@ -1219,9 +1219,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   11  ELEC =    1 --------------------------------
@@ -1278,9 +1278,9 @@ eigenvalues were copied to ekb
  -------------------------------------------
 
 output Pressure for check!
-Virtual Pressure is +0.118981 Kbar 
-Virial Term is +0.090833 Kbar 
-Kenetic Term is +0.028148 Kbar 
+Virtual Pressure is +0.118981 Kbar
+Virial Term is +0.090833 Kbar
+Kenetic Term is +0.028148 Kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><
@@ -1318,9 +1318,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   12  ELEC =    1 --------------------------------
@@ -1417,9 +1417,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   13  ELEC =    1 --------------------------------
@@ -1496,9 +1496,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   14  ELEC =    1 --------------------------------
@@ -1575,9 +1575,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   15  ELEC =    1 --------------------------------
@@ -1654,9 +1654,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   16  ELEC =    1 --------------------------------
@@ -1733,9 +1733,9 @@ eigenvalues were copied to ekb
  -------------------------------------------
 
 output Pressure for check!
-Virtual Pressure is +0.012883 Kbar 
-Virial Term is -0.014905 Kbar 
-Kenetic Term is +0.027788 Kbar 
+Virtual Pressure is +0.012883 Kbar
+Virial Term is -0.014905 Kbar
+Kenetic Term is +0.027788 Kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><
@@ -1773,9 +1773,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   17  ELEC =    1 --------------------------------
@@ -1852,9 +1852,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   18  ELEC =    1 --------------------------------
@@ -1931,9 +1931,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   19  ELEC =    1 --------------------------------
@@ -2030,9 +2030,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   20  ELEC =    1 --------------------------------
@@ -2109,9 +2109,9 @@ checkpoint 2
                              nRow_in_proc = +11
                              nCol_in_proc = +11
 receiver_size is +529 ; receiver_size of each process is:
-+144 +132 +132 +121 
++144 +132 +132 +121
 sender_size is +436 ; sender_size of each process is:
-+144 +144 +144 +4 
++144 +144 +144 +4
                          gamma_only_local = +1
 
  LCAO ALGORITHM ------------- MD =   21  ELEC =    1 --------------------------------
@@ -2168,9 +2168,9 @@ eigenvalues were copied to ekb
  -------------------------------------------
 
 output Pressure for check!
-Virtual Pressure is -0.113167 Kbar 
-Virial Term is -0.139283 Kbar 
-Kenetic Term is +0.026116 Kbar 
+Virtual Pressure is -0.113167 Kbar
+Virial Term is -0.139283 Kbar
+Kenetic Term is +0.026116 Kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><
@@ -2281,4 +2281,4 @@ Kenetic Term is +0.026116 Kbar
 
  Start  Time  : Wed Apr 13 14:58:14 2022
  Finish Time  : Wed Apr 13 15:00:27 2022
- Total  Time  : 0 h 2 mins 13 secs 
+ Total  Time  : 0 h 2 mins 13 secs

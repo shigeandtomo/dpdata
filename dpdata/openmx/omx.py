@@ -20,13 +20,13 @@ from collections import OrderedDict
 ### iterout.c from OpenMX soure code: column numbers and physical quantities ###
 # /* 1: */
 # /* 2,3,4: */
-# /* 5,6,7: force *   
+# /* 5,6,7: force *
 # /* 8: x-component of velocity */
 # /* 9: y-component of velocity */
 # /* 10: z-component of velocity */
 # /* 11: Net charge, electron charge is defined to be negative. */
 # /* 12: magnetic moment (muB) */
-# /* 13,14: angles of spin */  
+# /* 13,14: angles of spin */
 
 def load_atom(lines):
     atom_names = []

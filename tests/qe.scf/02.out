@@ -1,10 +1,10 @@
 
-     Program PWSCF v.5.1.1 starts on 21Sep2019 at 11: 4:11 
+     Program PWSCF v.5.1.1 starts on 21Sep2019 at 11: 4:11
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
          "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
-          URL http://www.quantum-espresso.org", 
+          URL http://www.quantum-espresso.org",
      in publications or presentations arising from this work. More details at
      http://www.quantum-espresso.org/quote
 
@@ -29,14 +29,14 @@
      Subspace diagonalization in iterative solution of the eigenvalue problem:
      scalapack distributed-memory algorithm (size of sub-group:  4*  4 procs)
 
- 
+
      Parallelization info
      --------------------
      sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
      Min        1583    1583    395               268330   268330   33541
      Max        1584    1584    396               268336   268336   33546
      Sum       50681   50681  12667              8586675  8586675 1073427
- 
+
 
 
      bravais-lattice index     =            0
@@ -57,14 +57,14 @@
      celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
 
      crystal axes: (cart. coord. in units of alat)
-               a(1) = (   1.000000   0.000000   0.000000 )  
-               a(2) = (   0.019129   0.994571   0.000000 )  
-               a(3) = (   0.016313  -0.025278   0.997886 )  
+               a(1) = (   1.000000   0.000000   0.000000 )
+               a(2) = (   0.019129   0.994571   0.000000 )
+               a(3) = (   0.016313  -0.025278   0.997886 )
 
      reciprocal axes: (cart. coord. in units 2 pi/alat)
-               b(1) = (  1.000000 -0.019234 -0.016835 )  
-               b(2) = (  0.000000  1.005459  0.025470 )  
-               b(3) = (  0.000000  0.000000  1.002119 )  
+               b(1) = (  1.000000 -0.019234 -0.016835 )
+               b(2) = (  0.000000  1.005459  0.025470 )
+               b(3) = (  0.000000  0.000000  1.002119 )
 
 
      PseudoPot. # 1 for  O read from file:
@@ -72,7 +72,7 @@
      MD5 check sum: 9773ed85979454d2005060f61e4c2afb
      Pseudo is Norm-conserving, Zval =  6.0
      Generated using "atomic" code by A. Dal Corso  v.5.2.0
-     Using radial grid of 1095 points,  1 beta functions with: 
+     Using radial grid of 1095 points,  1 beta functions with:
                 l(1) =   1
 
      PseudoPot. # 2 for  H read from file:
@@ -80,7 +80,7 @@
      MD5 check sum: 4b614d66af87240b7a5107bfa527a767
      Pseudo is Norm-conserving, Zval =  1.0
      Generated using "atomic" code by A. Dal Corso  v.5.2.0
-     Using radial grid of  929 points,  0 beta functions with: 
+     Using radial grid of  929 points,  0 beta functions with:
 
      atomic species   valence    mass     pseudopotential
         O              6.00    16.00000      O( 1.00)
@@ -728,7 +728,7 @@
   -0.00009821   0.00009475   0.00013673        -14.45     13.94     20.11
   -0.00010108   0.00013673   0.00009803        -14.87     20.11     14.42
 
- 
+
      init_run     :     82.91s CPU     91.63s WALL (       1 calls)
      electrons    :   1876.61s CPU   2122.18s WALL (       1 calls)
      forces       :     14.31s CPU     14.46s WALL (       1 calls)
@@ -762,14 +762,14 @@
      fft          :     10.83s CPU     15.91s WALL (     245 calls)
      fftw         :   1412.93s CPU   1653.59s WALL (   92080 calls)
      interpolate  :      0.02s CPU      0.03s WALL (      17 calls)
- 
+
      Parallel routines
      fft_scatter  :    788.04s CPU   1031.06s WALL (   92325 calls)
- 
+
      PWSCF        : 33m52.03s CPU    38m11.20s WALL
 
- 
-   This run was terminated on:  11:42:23  21Sep2019            
+
+   This run was terminated on:  11:42:23  21Sep2019
 
 =------------------------------------------------------------------------------=
    JOB DONE.

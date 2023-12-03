@@ -1476,14 +1476,14 @@
   | All pdtran() tests passed.
 
   Obtaining array dimensions for all initial allocations:
-  
+
   -----------------------------------------------------------------------
   Parsing control.in (first pass over file, find array dimensions only).
   The contents of control.in will be repeated verbatim below
   unless switched off by setting 'verbatim_writeout .false.' .
   in the first line of control.in .
   -----------------------------------------------------------------------
-  
+
   #########################################################################################
   #
   #  Aspirin form I
@@ -1524,7 +1524,7 @@
   #  Relaxation
   #
     k_grid 2 2 2
-  
+
     MD_run 2.0 NVE
     MD_time_step  0.0005
     MD_MB_init    300
@@ -1532,8 +1532,8 @@
   #  MD_clean_rotations .true. #does not work with periodic systems
     output_level MD_light
     wf_extrapolation polynomial 3 2
-  
-  
+
+
   ################################################################################
   #
   #  FHI-aims code project
@@ -1677,7 +1677,7 @@
   #     hydro 3 s 2
   #     hydro 3 p 6
   #     hydro 4 d 20
-  
+
   ################################################################################
   #
   #  FHI-aims code project
@@ -1838,19 +1838,19 @@
   #     hydro 3 s 4.4
   #     hydro 3 d 19.6
   #     hydro 5 g 12.8
-  
+
   -----------------------------------------------------------------------
   Completed first pass over input file control.in .
   -----------------------------------------------------------------------
-  
-  
+
+
   -----------------------------------------------------------------------
   Parsing geometry.in (first pass over file, find array dimensions only).
   The contents of geometry.in will be repeated verbatim below
   unless switched off by setting 'verbatim_writeout .false.' .
   in the first line of geometry.in .
   -----------------------------------------------------------------------
-  
+
   # "Extrapolated" 300K lattice from C.C. Wilson: https://doi.org/10.1524/zkri.2000.215.11.693
   lattice_vector      7.08      0.00000000      0.00000000
   lattice_vector      0.00000000      9.34      0.00000000
@@ -1935,11 +1935,11 @@
   atom       6.28064064      3.01044147     -1.61559718 C
   atom       6.24092458      3.79909591     -2.71246556 O
   atom       7.16907420      4.15344995     -2.98111050 H
-  
+
   -----------------------------------------------------------------------
   Completed first pass over input file geometry.in .
   -----------------------------------------------------------------------
-  
+
 
   Basic array size parameters:
   | Number of species                 :        4
@@ -1979,11 +1979,11 @@
   Molecular dynamics time step =       0.000500 ps
   Initializing MD run with Maxwell-Boltzmann momentum distribution at T =     300.000000 K
   Continuing molecular dynamics run from previous calculation
-  Requested output level: MD_light            
+  Requested output level: MD_light
   Added implicit wf_func power     0.0000
   Added implicit wf_func power     1.0000
   Added implicit wf_func power     2.0000
- 
+
   Reading configuration options for species H                   .
   | Found nuclear charge :   1.0000
   | Found atomic mass :    1.00794000000000      amu
@@ -2008,7 +2008,7 @@
   Species H                   : Using default innermost maximum threshold i_radial=  2 for radial functions.
   Species H                   : Default cutoff onset for free atom density etc. : 0.35000000E+01 AA.
   Species H                   : Basic radial grid will be enhanced according to radial_multiplier =   1, to contain    24 grid points.
- 
+
   Reading configuration options for species C                   .
   | Found nuclear charge :   6.0000
   | Found atomic mass :    12.0107000000000      amu
@@ -2036,7 +2036,7 @@
   Species C                   : Using default innermost maximum threshold i_radial=  2 for radial functions.
   Species C                   : Default cutoff onset for free atom density etc. : 0.35000000E+01 AA.
   Species C                   : Basic radial grid will be enhanced according to radial_multiplier =   1, to contain    34 grid points.
- 
+
   Reading configuration options for species O                   .
   | Found nuclear charge :   8.0000
   | Found atomic mass :    15.9994000000000      amu
@@ -2064,7 +2064,7 @@
   Species O                   : Using default innermost maximum threshold i_radial=  2 for radial functions.
   Species O                   : Default cutoff onset for free atom density etc. : 0.35000000E+01 AA.
   Species O                   : Basic radial grid will be enhanced according to radial_multiplier =   1, to contain    36 grid points.
- 
+
   Reading configuration options for species N                   .
   | Found nuclear charge :   7.0000
   | Found atomic mass :    14.0067000000000      amu
@@ -2093,9 +2093,9 @@
   Species N                   : Default cutoff onset for free atom density etc. : 0.35000000E+01 AA.
   Species N                   : Basic radial grid will be enhanced according to radial_multiplier =   1, to contain    35 grid points.
   | MBD: Using the same k-grid sampling as DFT
- 
+
   Finished reading input file 'control.in'. Consistency checks are next.
- 
+
   MPI_IN_PLACE appears to work with this MPI implementation.
   | Keeping use_mpi_in_place .true. (see manual).
   Target number of points in a grid batch is not set. Defaulting to  100
@@ -2165,7 +2165,7 @@
   The structure contains       80 atoms,  and a total of        320.000 electrons.
 
   Input geometry read from MD restart information.
-  Structure-dependent array size parameters: 
+  Structure-dependent array size parameters:
   | Maximum number of distinct radial functions  :       21
   | Maximum number of basis functions            :      796
   | Number of Kohn-Sham states (occupied + empty):      360
@@ -2173,11 +2173,11 @@
   Attempting to restart MD using MD restart file: aims_MD_restart.dat
   Successfully read all MD restart data from file aims_MD_restart.dat
   Input geometry:
-  | Unit cell: 
+  | Unit cell:
   |         7.080000         0.000000         0.000000
   |         0.000000         9.340000         0.000000
   |         5.530000         0.000000        11.600000
-  | Atomic structure: 
+  | Atomic structure:
   |       Atom                x [A]            y [A]            z [A]
   |    1: Species C         -4.317062        -4.068091        -1.970626
   |    2: Species H          1.800695        -3.801898        -1.402333
@@ -2303,41 +2303,41 @@
     2    1           3.0000        -0.259788        -7.0692
 
   Creating fixed part of basis set: Ionic, confined, hydrogenic.
- 
+
   H                    hydrogenic:
- 
-  List of hydrogenic basis orbitals: 
-    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]   
+
+  List of hydrogenic basis orbitals:
+    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]
     2    0         2.100000       -14.9728           0.193243           1.317208           4.583499
     2    1         3.500000       -41.6669           0.602369           0.602369           3.723403
- 
- 
+
+
   C                    hydrogenic:
- 
-  List of hydrogenic basis orbitals: 
-    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]   
+
+  List of hydrogenic basis orbitals:
+    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]
     2    1         1.700000        -9.7616           1.230570           1.230570           4.607917
     3    2         6.000000       -54.4224           0.792453           0.792453           3.883070
     2    0         4.900000       -81.6679           0.082559           0.562749           3.078220
- 
- 
+
+
   O                    hydrogenic:
- 
-  List of hydrogenic basis orbitals: 
-    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]   
+
+  List of hydrogenic basis orbitals:
+    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]
     2    1         1.800000       -10.9749           1.164242           1.164242           4.578029
     3    2         7.600000       -87.3180           0.624125           0.624125           3.251020
     3    0         6.400000       -61.9207           0.061167           1.081902           4.001998
- 
- 
+
+
   N                    hydrogenic:
- 
-  List of hydrogenic basis orbitals: 
-    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]   
+
+  List of hydrogenic basis orbitals:
+    n    l      effective z      eigenvalue [eV]  inner max. [A]     outer max. [A]     outer radius [A]
     2    1         1.800000       -10.9749           1.177451           1.177451           4.573712
     3    2         6.800000       -69.9026           0.704619           0.704619           3.538137
     3    0         5.800000       -50.8545           0.067388           1.191934           4.250239
- 
+
 
   Adding cutoff potential to free-atom effective potential.
   Creating atomic-like basis functions for current effective potential.
@@ -2397,11 +2397,11 @@
   | Species N :   atomic orbital   2 p accepted.
   | Species N :    hydro orbital   2 p accepted.
   | Species N :    hydro orbital   3 d accepted.
- 
+
   Basis size parameters after reduction:
   | Total number of radial functions:       21
   | Total number of basis functions :      796
- 
+
   Per-task memory consumption for arrays in subroutine allocate_ext:
   |           5.270216MB.
   Testing on-site integration grid accuracy.

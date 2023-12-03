@@ -1,13 +1,13 @@
             --------------------------------------------------------
                              AMBER SQM VERSION 19
- 
+
                                      By
               Ross C. Walker, Michael F. Crowley, Scott Brozell,
                          Tim Giese, Andreas W. Goetz,
                         Tai-Sung Lee and David A. Case
- 
+
             --------------------------------------------------------
- 
+
 
 --------------------------------------------------------------------------------
   QM CALCULATION INFO
@@ -22,7 +22,7 @@
 | QMMM: DFTB3 - Additional citation to follow. Implementation by:
 | QMMM:   A.W. Goetz
 | QMMM:
-| QMMM: DFTB3 method citation: 
+| QMMM: DFTB3 method citation:
 | QMMM:   M. Gaus, Q. Cui, M. Elstner, J. CHEM. THEORY COMPUT. 7, 931 (2011)
 | QMMM:
 | QMMM: DFTB3 dispersion correction [D3(BJ)] and halogen correction not available.
@@ -90,7 +90,7 @@ QMMM:   O    -0.157500
 
 QMMM: zeta =   4.000000
 
-  QMMM: QM Region Cartesian Coordinates (*=link atom) 
+  QMMM: QM Region Cartesian Coordinates (*=link atom)
   QMMM: QM_NO.   MM_NO.  ATOM         X         Y         Z
   QMMM:     1        1      H       -3.2480   16.7500   48.5690
   QMMM:     2        2      H       -5.8110   17.5130   48.7760
@@ -139,7 +139,7 @@ QMMM: zeta =   4.000000
 
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   1   1    H      -3.2480000000   16.7500000000   48.5690000000    0.0000000000
  QMMM SCC-DFTB:      2    1   1   1    H      -5.8110000000   17.5130000000   48.7760000000    0.0000000000
@@ -182,7 +182,7 @@ QMMM: zeta =   4.000000
  QMMM SCC-DFTB:     39    1   1   1    H      -0.9560000000   17.7860000000   48.7140000000    0.0000000000
  QMMM SCC-DFTB:     40    1   1   1    H      -1.0840000000   22.7710000000   50.7770000000    0.0000000000
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-10
  QMMM SCC-DFTB:      Charge:   5.0E-07
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -229,7 +229,7 @@ QMMM:
 QMMM:        Electronic energy =     -1651.50191208 eV (   -38085.28559458 KCal/mol)
 QMMM:         Repulsive energy =        27.94186371 eV (      644.36731896 KCal/mol)
 QMMM:             Total energy =     -1623.56004838 eV (   -37440.91827562 KCal/mol)
- 
+
  Final MO eigenvalues (au):
   -1.0678   -0.9168   -0.8819   -0.8091   -0.7922   -0.7767   -0.7663   -0.7146
   -0.7040   -0.6908   -0.6470   -0.6399   -0.6319   -0.6195   -0.6123   -0.5854
@@ -253,7 +253,7 @@ QMMM:             Total energy =     -1623.56004838 eV (   -37440.91827562 KCal/
  Total SCF energy    =     -37440.91827562 kcal/mol  (    -1623.56004838 eV)
  Electronic energy   =     -38085.28559458 kcal/mol  (    -1651.50191208 eV)
  Core-core repulsion =        644.36731896 kcal/mol  (       27.94186371 eV)
- 
+
     Atomic Charges for Step       1 :
   Atom    Element       Mulliken Charge
      1      H                  0.114
@@ -297,13 +297,13 @@ QMMM:             Total energy =     -1623.56004838 eV (   -37440.91827562 KCal/
     39      H                  0.227
     40      H                  0.229
  Total Mulliken Charge =      -0.000
- 
-                  X        Y        Z     TOTAL  
+
+                  X        Y        Z     TOTAL
   QM DIPOLE    -1.681   -6.267   -2.968    7.135
- 
+
  Final Structure
 
-  QMMM: QM Region Cartesian Coordinates (*=link atom) 
+  QMMM: QM Region Cartesian Coordinates (*=link atom)
   QMMM: QM_NO.   MM_NO.  ATOM         X         Y         Z
   QMMM:     1        1      H       -3.2480   16.7500   48.5690
   QMMM:     2        2      H       -5.8110   17.5130   48.7760
@@ -389,4 +389,3 @@ QMMM: Atm     39:    -7.53701805911437   25.50230569784656   15.96574322862577
 QMMM: Atm     40:    27.82710899111730    6.97729738125887    9.33368373960077
 
            --------- Calculation Completed ----------
-

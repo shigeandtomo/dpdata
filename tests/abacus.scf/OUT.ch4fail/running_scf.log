@@ -1,14 +1,14 @@
-                                                                                     
-                             WELCOME TO ABACUS                                       
-                                                                                     
-               'Atomic-orbital Based Ab-initio Computation at UStc'                  
-                                                                                     
-                     Website: http://abacus.ustc.edu.cn/                             
-                                                                                     
+
+                             WELCOME TO ABACUS
+
+               'Atomic-orbital Based Ab-initio Computation at UStc'
+
+                     Website: http://abacus.ustc.edu.cn/
+
     Version: Parallel, v2.1.0
     Processor Number is 1
     Start Time is Fri May  7 16:18:50 2021
-                                                                                     
+
  ------------------------------------------------------------------------------------
 
  READING GENERAL INFORMATION
@@ -114,9 +114,9 @@
  Read in pseudopotential file is C_ONCV_PBE-1.0.upf
                      pseudopotential type = NC
                             functional Ex = PBE
-                            functional Ec = 
-                          functional GCEx = 
-                          functional GCEc = 
+                            functional Ec =
+                          functional GCEx =
+                          functional GCEc =
                  nonlocal core correction = 0
                         valence electrons = 4
                                      lmax = 1
@@ -131,9 +131,9 @@
  Read in pseudopotential file is H_ONCV_PBE-1.0.upf
                      pseudopotential type = NC
                             functional Ex = PBE
-                            functional Ec = 
-                          functional GCEx = 
-                          functional GCEc = 
+                            functional Ec =
+                          functional GCEx =
+                          functional GCEc =
                  nonlocal core correction = 0
                         valence electrons = 1
                                      lmax = 0
@@ -309,7 +309,7 @@
  DONE : LOCAL POTENTIAL Time : 0.339339256287 (SEC)
 
 
- Init Non-Local PseudoPotential table : 
+ Init Non-Local PseudoPotential table :
  Init Non-Local-Pseudopotential done.
  DONE : NON-LOCAL POTENTIAL Time : 0.352857112885 (SEC)
 
@@ -595,4 +595,4 @@
 
  Start  Time  : Fri May  7 16:18:50 2021
  Finish Time  : Fri May  7 16:19:08 2021
- Total  Time  : +0 h +0 mins +18 secs 
+ Total  Time  : +0 h +0 mins +18 secs

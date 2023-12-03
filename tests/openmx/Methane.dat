@@ -1,5 +1,5 @@
 #
-# File Name      
+# File Name
 #
 
 System.CurrrentDirectory         ./    # default=./
@@ -23,18 +23,18 @@ Definition.of.Atomic.Species>
 
 Atoms.Number         5
 Atoms.SpeciesAndCoordinates.Unit   Ang # Ang|AU
-<Atoms.SpeciesAndCoordinates  
- 1  C      0.000000    0.000000    0.000000     2.0  2.0 
+<Atoms.SpeciesAndCoordinates
+ 1  C      0.000000    0.000000    0.000000     2.0  2.0
  2  H     -0.889981   -0.629312    0.000000     0.5  0.5
  3  H      0.000000    0.629312   -0.889981     0.5  0.5
  4  H      0.000000    0.629312    0.889981     0.5  0.5
  5  H      0.889981   -0.629312    0.000000     0.5  0.5
 Atoms.SpeciesAndCoordinates>
 Atoms.UnitVectors.Unit             Ang # Ang|AU
-<Atoms.UnitVectors                     
-  10.0   0.0   0.0  
-   0.0  10.0   0.0  
-   0.0   0.0  10.0  
+<Atoms.UnitVectors
+  10.0   0.0   0.0
+   0.0  10.0   0.0
+   0.0   0.0  10.0
 Atoms.UnitVectors>
 
 #
@@ -49,12 +49,12 @@ scf.maxIter                 100        # default=40
 scf.EigenvalueSolver        cluster    # DC|GDC|Cluster|Band
 scf.Kgrid                  1 1 1       # means n1 x n2 x n3
 scf.Mixing.Type           rmm-diis     # Simple|Rmm-Diis|Gr-Pulay|Kerker|Rmm-Diisk
-scf.Init.Mixing.Weight     0.200       # default=0.30 
-scf.Min.Mixing.Weight      0.001       # default=0.001 
-scf.Max.Mixing.Weight      0.200       # default=0.40 
+scf.Init.Mixing.Weight     0.200       # default=0.30
+scf.Min.Mixing.Weight      0.001       # default=0.001
+scf.Max.Mixing.Weight      0.200       # default=0.40
 scf.Mixing.History          7          # default=5
 scf.Mixing.StartPulay       4          # default=6
-scf.criterion             1.0e-10      # default=1.0e-6 (Hartree) 
+scf.criterion             1.0e-10      # default=1.0e-6 (Hartree)
 scf.lapack.dste            dstevx      # dstevx|dstedc|dstegr,default=dstevx
 
 #

@@ -1,15 +1,15 @@
 
-     Program PWSCF v.5.4.0 starts on 22Sep2019 at 18: 5:43 
+     Program PWSCF v.5.4.0 starts on 22Sep2019 at 18: 5:43
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
          "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
-          URL http://www.quantum-espresso.org", 
+          URL http://www.quantum-espresso.org",
      in publications or presentations arising from this work. More details at
      http://www.quantum-espresso.org/quote
 
            HOST :    @host@
-           ARCH :    
+           ARCH :
              CC :    cc
             CPP :    cpp
             F90 :    mpif90
@@ -18,7 +18,7 @@
       BLAS LIBS :    -lopenblas
     LAPACK LIBS :    -lopenblas
        FFT LIBS :    -lfftw3
-      MASS LIBS :    
+      MASS LIBS :
 
      Parallel version (MPI), running on    28 processors
      R & G space division:  proc/nbgrp/npool/nimage =      28
@@ -74,14 +74,14 @@ Warning: card / ignored
      celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
 
      crystal axes: (cart. coord. in units of alat)
-               a(1) = (   1.000000   0.000000   0.000000 )  
-               a(2) = (   0.000000   1.000000   0.000000 )  
-               a(3) = (   0.000000   0.000000   1.000000 )  
+               a(1) = (   1.000000   0.000000   0.000000 )
+               a(2) = (   0.000000   1.000000   0.000000 )
+               a(3) = (   0.000000   0.000000   1.000000 )
 
      reciprocal axes: (cart. coord. in units 2 pi/alat)
-               b(1) = (  1.000000  0.000000  0.000000 )  
-               b(2) = (  0.000000  1.000000  0.000000 )  
-               b(3) = (  0.000000  0.000000  1.000000 )  
+               b(1) = (  1.000000  0.000000  0.000000 )
+               b(2) = (  0.000000  1.000000  0.000000 )
+               b(3) = (  0.000000  0.000000  1.000000 )
 
 
      PseudoPot. # 1 for  H read from file:
@@ -89,14 +89,14 @@ Warning: card / ignored
      MD5 check sum: 4b614d66af87240b7a5107bfa527a767
      Pseudo is Norm-conserving, Zval =  1.0
      Generated using "atomic" code by A. Dal Corso  v.5.2.0
-     Using radial grid of  929 points,  0 beta functions with: 
+     Using radial grid of  929 points,  0 beta functions with:
 
      PseudoPot. # 2 for  C read from file:
      ../pseudo/C.tm.pbe.UPF
      MD5 check sum: a4f27fcb9b24331b00ace8e732a7e062
      Pseudo is Norm-conserving, Zval =  4.0
      Generated using "atomic" code by A. Dal Corso  v.5.2.0
-     Using radial grid of 1073 points,  1 beta functions with: 
+     Using radial grid of 1073 points,  1 beta functions with:
                 l(1) =   1
 
      atomic species   valence    mass     pseudopotential
@@ -314,7 +314,7 @@ Warning: card / ignored
      PWSCF        :     9.05s CPU         9.22s WALL
 
 
-   This run was terminated on:  18: 5:52  22Sep2019            
+   This run was terminated on:  18: 5:52  22Sep2019
 
 =------------------------------------------------------------------------------=
    JOB DONE.

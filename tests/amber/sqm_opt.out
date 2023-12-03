@@ -1,13 +1,13 @@
             --------------------------------------------------------
                              AMBER SQM VERSION 19
- 
+
                                      By
               Ross C. Walker, Michael F. Crowley, Scott Brozell,
                          Tim Giese, Andreas W. Goetz,
                         Tai-Sung Lee and David A. Case
- 
+
             --------------------------------------------------------
- 
+
 
 --------------------------------------------------------------------------------
   QM CALCULATION INFO
@@ -22,7 +22,7 @@
 | QMMM: DFTB3 - Additional citation to follow. Implementation by:
 | QMMM:   A.W. Goetz
 | QMMM:
-| QMMM: DFTB3 method citation: 
+| QMMM: DFTB3 method citation:
 | QMMM:   M. Gaus, Q. Cui, M. Elstner, J. CHEM. THEORY COMPUT. 7, 931 (2011)
 | QMMM:
 | QMMM: DFTB3 dispersion correction [D3(BJ)] and halogen correction not available.
@@ -54,7 +54,7 @@ QMMM:   H    -0.185700
 
 QMMM: zeta =   4.000000
 
-  QMMM: QM Region Cartesian Coordinates (*=link atom) 
+  QMMM: QM Region Cartesian Coordinates (*=link atom)
   QMMM: QM_NO.   MM_NO.  ATOM         X         Y         Z
   QMMM:     1        1      C       -0.0221    0.0032    0.0165
   QMMM:     2        2      H       -0.6690    0.8894   -0.1009
@@ -68,7 +68,7 @@ QMMM: zeta =   4.000000
 
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0221000000    0.0032000000    0.0165000000    0.0000000000
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690000000    0.8894000000   -0.1009000000    0.0000000000
@@ -76,7 +76,7 @@ QMMM: zeta =   4.000000
  QMMM SCC-DFTB:      4    2   1   1    H       0.0964000000   -0.3151000000    1.0638000000    0.0000000000
  QMMM SCC-DFTB:      5    2   1   1    H       0.9725000000    0.2803000000   -0.3911000000    0.0000000000
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -120,7 +120,7 @@ QMMM: Atm      4:     4.44538283013336   -7.38377343857182   12.75287244204118
 QMMM: Atm      5:    15.63746062570429    5.01285889151487   -9.44486424761330
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0220999687    0.0031999917    0.0164999685   -0.4017199086
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6689999888    0.8893999627   -0.1008999881    0.1047408987
@@ -128,7 +128,7 @@ QMMM: Atm      5:    15.63746062570429    5.01285889151487   -9.44486424761330
  QMMM SCC-DFTB:      4    2   1   1    H       0.0963999899   -0.3150999832    1.0637999709    0.1043123572
  QMMM SCC-DFTB:      5    2   1   1    H       0.9724999643    0.2802999886   -0.3910999785    0.0935605041
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -166,7 +166,7 @@ QMMM: Atm      4:     4.44537812583215   -7.38376888783980   12.75286665628583
 QMMM: Atm      5:    15.63741373622763    5.01284716771441   -9.44484234833637
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0221000121    0.0032000084    0.0165000217   -0.4017199009
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6689999826    0.8893999415   -0.1008999849    0.1047408876
@@ -174,7 +174,7 @@ QMMM: Atm      5:    15.63741373622763    5.01284716771441   -9.44484234833637
  QMMM SCC-DFTB:      4    2   1   1    H       0.0963999875   -0.3150999729    1.0637999491    0.1043123380
  QMMM SCC-DFTB:      5    2   1   1    H       0.9725000154    0.2802999985   -0.3910999967    0.0935605164
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -212,7 +212,7 @@ QMMM: Atm      4:     4.44537778375399   -7.38375816312764   12.75282322394532
 QMMM: Atm      5:    15.63747847251340    5.01286156692956   -9.44487150789251
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0220999770    0.0031999942    0.0164999786   -0.4017198929
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690000286    0.8893999644   -0.1008999763    0.1047409081
@@ -220,7 +220,7 @@ QMMM: Atm      5:    15.63747847251340    5.01286156692956   -9.44487150789251
  QMMM SCC-DFTB:      4    2   1   1    H       0.0963999854   -0.3150999728    1.0638000028    0.1043123640
  QMMM SCC-DFTB:      5    2   1   1    H       0.9725000558    0.2803000039   -0.3910999998    0.0935604801
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -258,7 +258,7 @@ QMMM: Atm      4:     4.44537952259198   -7.38376958855279   12.75287923818410
 QMMM: Atm      5:    15.63747923478301    5.01286259730783   -9.44486646623504
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0022758867   -0.0007767586   -0.0007109555   -0.4017198684
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6673769496    0.8463624077   -0.0844628839    0.1047408826
@@ -266,7 +266,7 @@ QMMM: Atm      5:    15.63747923478301    5.01286259730783   -9.44486646623504
  QMMM SCC-DFTB:      4    2   1   1    H       0.0840834583   -0.2923013588    1.0377587851    0.1043123345
  QMMM SCC-DFTB:      5    2   1   1    H       0.9738324351    0.2751884580   -0.3792280081    0.0935605016
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -308,7 +308,7 @@ QMMM: Atm      4:     0.13675393072060   -0.51889044079648    1.02882655685741
 QMMM: Atm      5:     1.25439351430015    0.66922460179871   -0.60645041442821
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0022758254   -0.0007767336   -0.0007109343   -0.4165722368
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6673769737    0.8463623871   -0.0844628744    0.1044109119
@@ -316,7 +316,7 @@ QMMM: Atm      5:     1.25439351430015    0.66922460179871   -0.60645041442821
  QMMM SCC-DFTB:      4    2   1   1    H       0.0840834501   -0.2923013382    1.0377587695    0.1038385532
  QMMM SCC-DFTB:      5    2   1   1    H       0.9738324400    0.2751884484   -0.3792279986    0.1034345357
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -354,7 +354,7 @@ QMMM: Atm      4:     0.13674581727437   -0.51888280486258    1.02879998530180
 QMMM: Atm      5:     1.25436005443588    0.66921216009831   -0.60643929883291
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0022758759   -0.0007767626   -0.0007109613   -0.4165722380
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6673769734    0.8463623560   -0.0844628783    0.1044109015
@@ -362,7 +362,7 @@ QMMM: Atm      5:     1.25436005443588    0.66921216009831   -0.60643929883291
  QMMM SCC-DFTB:      4    2   1   1    H       0.0840834733   -0.2923013234    1.0377587795    0.1038385635
  QMMM SCC-DFTB:      5    2   1   1    H       0.9738324498    0.2751884322   -0.3792279874    0.1034345627
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -400,7 +400,7 @@ QMMM: Atm      4:     0.13675562187275   -0.51888230503968    1.02882105346303
 QMMM: Atm      5:     1.25438975749003    0.66921826988072   -0.60644398225300
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C      -0.0022759240   -0.0007767665   -0.0007109443   -0.4165722482
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6673769688    0.8463624208   -0.0844629104    0.1044109120
@@ -408,7 +408,7 @@ QMMM: Atm      5:     1.25438975749003    0.66921826988072   -0.60644398225300
  QMMM SCC-DFTB:      4    2   1   1    H       0.0840835104   -0.2923013583    1.0377588146    0.1038385508
  QMMM SCC-DFTB:      5    2   1   1    H       0.9738324306    0.2751884323   -0.3792279905    0.1034345376
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -446,7 +446,7 @@ QMMM: Atm      4:     0.13676701341870   -0.51889254828514    1.02884259812090
 QMMM: Atm      5:     1.25440821726414    0.66922416139912   -0.60645249570357
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000038338   -0.0000741137   -0.0000915666   -0.4165722357
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690925881    0.8440618468   -0.0841048801    0.1044109150
@@ -454,7 +454,7 @@ QMMM: Atm      5:     1.25440821726414    0.66922416139912   -0.60645249570357
  QMMM SCC-DFTB:      4    2   1   1    H       0.0845718862   -0.2904408216    1.0372016233    0.1038385542
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744495465    0.2738752702   -0.3781262149    0.1034345240
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -495,7 +495,7 @@ QMMM: Atm      4:    -0.02000842001580   -0.00089167325386    0.01917324403620
 QMMM: Atm      5:     0.03390680653361    0.03023903909095   -0.01489550500940
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000038243   -0.0000740764   -0.0000915287   -0.4167784643
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690926075    0.8440618473   -0.0841048975    0.1041805592
@@ -503,7 +503,7 @@ QMMM: Atm      5:     0.03390680653361    0.03023903909095   -0.01489550500940
  QMMM SCC-DFTB:      4    2   1   1    H       0.0845719235   -0.2904408174    1.0372016385    0.1041707783
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744495513    0.2738752466   -0.3781262018    0.1041888253
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -541,7 +541,7 @@ QMMM: Atm      4:    -0.02000172847949   -0.00089224660803    0.01916687245340
 QMMM: Atm      5:     0.03391125450313    0.03023237989853   -0.01489712556091
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000038614   -0.0000741309   -0.0000915578   -0.4167784546
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690926261    0.8440618880   -0.0841049009    0.1041805702
@@ -549,7 +549,7 @@ QMMM: Atm      5:     0.03391125450313    0.03023237989853   -0.01489712556091
  QMMM SCC-DFTB:      4    2   1   1    H       0.0845719215   -0.2904408219    1.0372016410    0.1041707902
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744495193    0.2738752451   -0.3781261931    0.1041888187
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -587,7 +587,7 @@ QMMM: Atm      4:    -0.02000477088421   -0.00089063282067    0.01917739144805
 QMMM: Atm      5:     0.03387042191143    0.03022780663044   -0.01488085456804
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000038176   -0.0000741005   -0.0000915615   -0.4167784558
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6690925757    0.8440618436   -0.0841048900    0.1041805336
@@ -595,7 +595,7 @@ QMMM: Atm      5:     0.03387042191143    0.03022780663044   -0.01488085456804
  QMMM SCC-DFTB:      4    2   1   1    H       0.0845719140   -0.2904408194    1.0372015916    0.1041707818
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744494919    0.2738752371   -0.3781261851    0.1041888366
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -633,7 +633,7 @@ QMMM: Atm      4:    -0.02000388964462   -0.00088812436557    0.01915299001483
 QMMM: Atm      5:     0.03387164178397    0.03022483954725   -0.01488018434134
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000028335   -0.0000024337    0.0000027987   -0.4167784825
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6691668036    0.8441000307   -0.0841661042    0.1041805735
@@ -641,7 +641,7 @@ QMMM: Atm      5:     0.03387164178397    0.03022483954725   -0.01488018434134
  QMMM SCC-DFTB:      4    2   1   1    H       0.0846969405   -0.2904312731    1.0372413187    0.1041707840
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744164720    0.2737884277   -0.3780667942    0.1041888237
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -682,7 +682,7 @@ QMMM: Atm      4:    -0.00020413609271    0.00017694635464    0.00105468965912
 QMMM: Atm      5:    -0.00151284761905    0.00029090519209   -0.00019071050406
  QMMM SCC-DFTB: No external charges defined.
 
- QMMM SCC-DFTB: QM Region Input Cartesian Coordinates 
+ QMMM SCC-DFTB: QM Region Input Cartesian Coordinates
  QMMM SCC-DFTB:     NO.  TYP  L  AT#  SYM          X                Y                Z             Charge
  QMMM SCC-DFTB:      1    1   2   6    C       0.0000028335   -0.0000024337    0.0000027987   -0.4167535319
  QMMM SCC-DFTB:      2    2   1   1    H      -0.6691668036    0.8441000307   -0.0841661042    0.1041874493
@@ -690,7 +690,7 @@ QMMM: Atm      5:    -0.00151284761905    0.00029090519209   -0.00019071050406
  QMMM SCC-DFTB:      4    2   1   1    H       0.0846969405   -0.2904312731    1.0372413187    0.1041892284
  QMMM SCC-DFTB:      5    2   1   1    H       0.9744164720    0.2737884277   -0.3780667942    0.1041887402
 
- QMMM SCC-DFTB:  SCC convergence criteria: 
+ QMMM SCC-DFTB:  SCC convergence criteria:
  QMMM SCC-DFTB:      Energy:   1.0E-08
  QMMM SCC-DFTB:      Charge:   5.0E-06
  QMMM SCC-DFTB:      Telec :     0.000K
@@ -727,7 +727,7 @@ QMMM: Atm      3:    -0.00072529733534    0.00096065631988   -0.00077488092885
 QMMM: Atm      4:    -0.00020413624517    0.00017694651691    0.00105468945196
 QMMM: Atm      5:    -0.00151284786736    0.00029090528194   -0.00019071051969
   ... geometry converged !
- 
+
  Final MO eigenvalues (au):
   -0.5724   -0.3317   -0.3317   -0.3317    0.3784    0.3784    0.3784    0.6704
 
@@ -737,7 +737,7 @@ QMMM: Atm      5:    -0.00151284786736    0.00029090528194   -0.00019071051969
  Total SCF energy    =      -2027.52150548 kcal/mol  (      -87.91992999 eV)
  Electronic energy   =      -1993.70432359 kcal/mol  (      -86.45350694 eV)
  Core-core repulsion =        -33.81718189 kcal/mol  (       -1.46642305 eV)
- 
+
     Atomic Charges for Step       1 :
   Atom    Element       Mulliken Charge
      1      C                 -0.417
@@ -746,13 +746,13 @@ QMMM: Atm      5:    -0.00151284786736    0.00029090528194   -0.00019071051969
      4      H                  0.104
      5      H                  0.104
  Total Mulliken Charge =       0.000
- 
-                  X        Y        Z     TOTAL  
+
+                  X        Y        Z     TOTAL
   QM DIPOLE    -0.000    0.000   -0.000    0.000
- 
+
  Final Structure
 
-  QMMM: QM Region Cartesian Coordinates (*=link atom) 
+  QMMM: QM Region Cartesian Coordinates (*=link atom)
   QMMM: QM_NO.   MM_NO.  ATOM         X         Y         Z
   QMMM:     1        1      C        0.0000   -0.0000    0.0000
   QMMM:     2        2      H       -0.6692    0.8441   -0.0842
@@ -768,4 +768,3 @@ QMMM: Atm      4:    -0.00020413624517    0.00017694651691    0.00105468945196
 QMMM: Atm      5:    -0.00151284786736    0.00029090528194   -0.00019071051969
 
            --------- Calculation Completed ----------
-

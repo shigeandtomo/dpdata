@@ -1,7 +1,7 @@
 INPUT_PARAMETERS
 #Parameters	(General)
 suffix          autotest
-pseudo_dir		./	
+pseudo_dir		./
 nbands			8
 calculation     md
 

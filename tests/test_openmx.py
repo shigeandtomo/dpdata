@@ -42,7 +42,7 @@ class TestOPENMXTRAJProps:
                 if coords[ii][jj] < 0:
                     coords[ii][jj] += celll
                 elif coords[ii][jj] >= celll:
-                    coords[ii][jj] -= celll                
+                    coords[ii][jj] -= celll
                 self.assertAlmostEqual(
                     self.system["coords"][-1][ii][jj], coords[ii][jj]
                 )

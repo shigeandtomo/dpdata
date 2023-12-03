@@ -2,9 +2,9 @@
  Initial command:
  /home/App/g16.b01/g16/l1.exe "/home/***/deepmd/tmp/fp/40456a50-ffbd-432d-b2f5-df431ae9adf6/task.000.000027/Gau-23732.inp" -scrdir="/home/***/deepmd/tmp/fp/40456a50-ffbd-432d-b2f5-df431ae9adf6/task.000.000027/"
  Entering Link 1 = /home/App/g16.b01/g16/l1.exe PID=     23733.
-  
+
  Copyright (c) 1988-2017, Gaussian, Inc.  All Rights Reserved.
-  
+
  This is part of the Gaussian(R) 16 program.  It is based on
  the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
  the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
@@ -17,28 +17,28 @@
  University), and the Gaussian 82(TM) system (copyright 1983,
  Carnegie Mellon University). Gaussian is a federally registered
  trademark of Gaussian, Inc.
-  
+
  This software contains proprietary and confidential information,
  including trade secrets, belonging to Gaussian, Inc.
-  
+
  This software is provided under written license and may be
  used, copied, transmitted, or stored only in accord with that
  written license.
-  
+
  The following legend is applicable only to US Government
  contracts under FAR:
-  
+
                     RESTRICTED RIGHTS LEGEND
-  
+
  Use, reproduction and disclosure by the US Government is
  subject to restrictions as set forth in subparagraphs (a)
  and (c) of the Commercial Computer Software - Restricted
  Rights clause in FAR 52.227-19.
-  
+
  Gaussian, Inc.
  340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
-  
-  
+
+
  ---------------------------------------------------------------
  Warning -- This program may not be used in any manner that
  competes with the business of Gaussian, Inc. or will provide
@@ -51,30 +51,30 @@
  licensee that it is not a competitor of Gaussian, Inc. and that
  it will not use this program in any manner prohibited above.
  ---------------------------------------------------------------
-  
+
 
  Cite this work as:
  Gaussian 16, Revision B.01,
- M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
- M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
- G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
- J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
- J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
- F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
- T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
- G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
- J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
- T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
- F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
- V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
- K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
- J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
- J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria,
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone,
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich,
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian,
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young,
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone,
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega,
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda,
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai,
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta,
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin,
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand,
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar,
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi,
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas,
  J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.
- 
+
  ******************************************
  Gaussian 16:  ES64L-G16RevB.01 20-Dec-2017
-                 4-May-2021 
+                 4-May-2021
  ******************************************
  %chk=83696cb8-ace5-11eb-8c2f-f48e38bfc5f8.chk
  %nproc=2
@@ -96,133 +96,133 @@
  -----
  Symbolic Z-matrix:
  Charge =  0 Multiplicity = 2
- C                     13.1706   3.01189   5.15517 
- C                     12.1136   3.0273    4.22454 
- C                     11.3361   0.8687    6.25557 
- C                     9.68892  -3.3058    12.333 
- C                     10.9218  -2.3965    12.2848 
- C                     9.58198  -1.9103    10.48 
- C                     14.114   -0.7611    2.49876 
- C                     13.8768   0.25117   1.34225 
- C                     11.8534  -0.4935    2.15993 
- C                     9.64847  -1.7819    6.03896 
- C                     9.72969  -2.8678    4.96417 
- C                     11.8346  -2.363     5.77447 
- C                     16.5682  -0.0266    6.57782 
- C                     15.55    -0.294     5.52538 
- C                     17.6256  -0.2623    4.56216 
- C                     14.2847   6.28352   8.52646 
- C                     13.2725   5.89274   7.46009 
- C                     13.2794   4.31501   9.13597 
- C                     17.462    3.61043   5.24534 
- C                     16.2509   4.28143   5.80315 
- C                     18.1151   5.60261   6.24353 
- C                     8.5876    2.99169   10.8043 
- C                     8.38701   1.67361   10.0028 
- C                     8.01741   1.26163   12.2601 
- C                     11.6372   4.71952   12.4723 
- C                     12.3823   4.31935   13.7299 
- C                     11.6792   2.45129   12.7497 
- C                     16.5201   0.98596   10.517 
- C                     17.9558   0.5377    10.6617 
- C                     17.867    2.54657   9.62098 
- C                     13.3164   0.85258   8.4645 
- C                     13.6755  -0.6698    8.48476 
- C                     12.9745   0.01809   10.4885 
- O                     11.4171   1.27852   6.72062 
- O                     10.7228  -1.4418    11.157 
- O                     9.10458  -3.1808    10.9814 
- O                     12.4647   0.13143   0.96259 
- O                     12.8136  -1.4637    2.66744 
- O                     11.177   -3.1071    4.71208 
- O                     10.922   -1.6508    6.58252 
- O                     16.2038  -0.2387    4.2433 
- O                     17.7924   0.28735   5.83378 
- O                     12.9427   4.5029    7.77742 
- O                     14.2824   5.26973   9.54566 
- O                     16.7326   5.36721   6.67858 
- O                     18.6542   4.3673    5.71481 
- O                     7.90323   0.65448   10.9595 
- O                     8.16849   2.70673   12.1674 
- O                     11.8283   3.03498   14.0524 
- O                     11.1479   3.50574   11.9023 
- O                     18.787    1.62454   10.1999 
- O                     16.4737   2.20983   9.75965 
- O                     13.9061  -0.9101    9.89221 
- O                     12.739    1.20821   9.72889 
- O                     8.61548   3.79905   6.42657 
- H                     14.2585   2.88438   4.99016 
- H                     12.831    2.53269   5.99389 
- H                     11.8264   2.23742   3.38546 
- H                     11.2826   3.50593   4.71391 
- H                     9.05343  -2.9457    13.1756 
- H                     9.8154   -4.381     12.4923 
- H                     11.9192  -2.9427    12.14 
- H                     11.1569  -1.8015    13.2076 
- H                     9.82813  -2.1389    9.39287 
- H                     8.81331  -1.1001    10.4681 
- H                     14.4228  -0.226     3.39066 
- H                     14.8342  -1.5998    2.45639 
- H                     14.4402   0.04229   0.39173 
- H                     13.9868   1.32571   1.63799 
- H                     10.9649  -0.9654    1.73054 
- H                     11.4537   0.3006    2.83737 
- H                     8.80766  -2.0239    6.83175 
- H                     9.36638  -0.7722    5.77307 
- H                     9.27699  -2.6643    4.01132 
- H                     9.3661   -3.852     5.27825 
- H                     12.4689  -1.6575    5.18696 
- H                     12.4277  -2.9451    6.51559 
- H                     16.7299  -0.8742    7.27785 
- H                     16.3389   0.86096   7.18233 
- H                     14.7264   0.43886   5.40664 
- H                     15.1463  -1.3653    5.57071 
- H                     18.1241   0.43008   3.76596 
- H                     18.0108  -1.2924    4.37098 
- H                     13.9532   7.20382   9.03934 
- H                     15.3563   6.39122   8.23216 
- H                     13.553    5.79085   6.38027 
- H                     12.3224   6.49729   7.51849 
- H                     13.8207   3.3596    9.20544 
- H                     12.5181   4.45373   9.90246 
- H                     17.3606   3.548     4.13228 
- H                     17.6644   2.56261   5.56518 
- H                     15.6485   3.63105   6.46619 
- H                     15.6048   4.75324   4.98569 
- H                     18.6863   5.88726   7.15401 
- H                     18.2164   6.42071   5.52829 
- H                     8.0135    3.84232   10.3314 
- H                     9.67127   3.28342   10.7809 
- H                     9.26289   1.36657   9.38232 
- H                     7.59592   1.61073   9.18337 
- H                     8.89719   0.83212   12.8556 
- H                     7.11417   1.08472   12.943 
- H                     12.2538   5.20057   11.6805 
- H                     10.7463   5.38229   12.6936 
- H                     12.1707   4.90012   14.6843 
- H                     13.4605   4.30384   13.6366 
- H                     10.9777   1.6331    12.8232 
- H                     12.5855   2.06161   12.3489 
- H                     16.0673   1.17338   11.5057 
- H                     15.9037   0.1526    10.0384 
- H                     18.2242  -0.3868    10.1041 
- H                     18.2968   0.2057    11.6346 
- H                     18.0612   2.66764   8.49299 
- H                     18.0218   3.5596    10.1526 
- H                     12.5744   1.00365   7.67796 
- H                     14.0936   1.60043   8.15254 
- H                     14.6194  -1.0039    8.03616 
- H                     12.8785  -1.3001    8.06617 
- H                     13.4209   0.29807   11.4482 
- H                     12.006   -0.4992    10.7908 
- H                     10.5108   1.83729   9.20021 
- S                     2.25875   6.06581   6.15355 
- S                     4.14063   6.17315   5.97153 
- S                     4.95999   4.25573   6.26858 
- S                     6.86805   4.05188   6.87505 
- S                     8.7219    3.2999    6.45078 
- S                     8.75562   2.3685    7.58734 
- 
+ C                     13.1706   3.01189   5.15517
+ C                     12.1136   3.0273    4.22454
+ C                     11.3361   0.8687    6.25557
+ C                     9.68892  -3.3058    12.333
+ C                     10.9218  -2.3965    12.2848
+ C                     9.58198  -1.9103    10.48
+ C                     14.114   -0.7611    2.49876
+ C                     13.8768   0.25117   1.34225
+ C                     11.8534  -0.4935    2.15993
+ C                     9.64847  -1.7819    6.03896
+ C                     9.72969  -2.8678    4.96417
+ C                     11.8346  -2.363     5.77447
+ C                     16.5682  -0.0266    6.57782
+ C                     15.55    -0.294     5.52538
+ C                     17.6256  -0.2623    4.56216
+ C                     14.2847   6.28352   8.52646
+ C                     13.2725   5.89274   7.46009
+ C                     13.2794   4.31501   9.13597
+ C                     17.462    3.61043   5.24534
+ C                     16.2509   4.28143   5.80315
+ C                     18.1151   5.60261   6.24353
+ C                     8.5876    2.99169   10.8043
+ C                     8.38701   1.67361   10.0028
+ C                     8.01741   1.26163   12.2601
+ C                     11.6372   4.71952   12.4723
+ C                     12.3823   4.31935   13.7299
+ C                     11.6792   2.45129   12.7497
+ C                     16.5201   0.98596   10.517
+ C                     17.9558   0.5377    10.6617
+ C                     17.867    2.54657   9.62098
+ C                     13.3164   0.85258   8.4645
+ C                     13.6755  -0.6698    8.48476
+ C                     12.9745   0.01809   10.4885
+ O                     11.4171   1.27852   6.72062
+ O                     10.7228  -1.4418    11.157
+ O                     9.10458  -3.1808    10.9814
+ O                     12.4647   0.13143   0.96259
+ O                     12.8136  -1.4637    2.66744
+ O                     11.177   -3.1071    4.71208
+ O                     10.922   -1.6508    6.58252
+ O                     16.2038  -0.2387    4.2433
+ O                     17.7924   0.28735   5.83378
+ O                     12.9427   4.5029    7.77742
+ O                     14.2824   5.26973   9.54566
+ O                     16.7326   5.36721   6.67858
+ O                     18.6542   4.3673    5.71481
+ O                     7.90323   0.65448   10.9595
+ O                     8.16849   2.70673   12.1674
+ O                     11.8283   3.03498   14.0524
+ O                     11.1479   3.50574   11.9023
+ O                     18.787    1.62454   10.1999
+ O                     16.4737   2.20983   9.75965
+ O                     13.9061  -0.9101    9.89221
+ O                     12.739    1.20821   9.72889
+ O                     8.61548   3.79905   6.42657
+ H                     14.2585   2.88438   4.99016
+ H                     12.831    2.53269   5.99389
+ H                     11.8264   2.23742   3.38546
+ H                     11.2826   3.50593   4.71391
+ H                     9.05343  -2.9457    13.1756
+ H                     9.8154   -4.381     12.4923
+ H                     11.9192  -2.9427    12.14
+ H                     11.1569  -1.8015    13.2076
+ H                     9.82813  -2.1389    9.39287
+ H                     8.81331  -1.1001    10.4681
+ H                     14.4228  -0.226     3.39066
+ H                     14.8342  -1.5998    2.45639
+ H                     14.4402   0.04229   0.39173
+ H                     13.9868   1.32571   1.63799
+ H                     10.9649  -0.9654    1.73054
+ H                     11.4537   0.3006    2.83737
+ H                     8.80766  -2.0239    6.83175
+ H                     9.36638  -0.7722    5.77307
+ H                     9.27699  -2.6643    4.01132
+ H                     9.3661   -3.852     5.27825
+ H                     12.4689  -1.6575    5.18696
+ H                     12.4277  -2.9451    6.51559
+ H                     16.7299  -0.8742    7.27785
+ H                     16.3389   0.86096   7.18233
+ H                     14.7264   0.43886   5.40664
+ H                     15.1463  -1.3653    5.57071
+ H                     18.1241   0.43008   3.76596
+ H                     18.0108  -1.2924    4.37098
+ H                     13.9532   7.20382   9.03934
+ H                     15.3563   6.39122   8.23216
+ H                     13.553    5.79085   6.38027
+ H                     12.3224   6.49729   7.51849
+ H                     13.8207   3.3596    9.20544
+ H                     12.5181   4.45373   9.90246
+ H                     17.3606   3.548     4.13228
+ H                     17.6644   2.56261   5.56518
+ H                     15.6485   3.63105   6.46619
+ H                     15.6048   4.75324   4.98569
+ H                     18.6863   5.88726   7.15401
+ H                     18.2164   6.42071   5.52829
+ H                     8.0135    3.84232   10.3314
+ H                     9.67127   3.28342   10.7809
+ H                     9.26289   1.36657   9.38232
+ H                     7.59592   1.61073   9.18337
+ H                     8.89719   0.83212   12.8556
+ H                     7.11417   1.08472   12.943
+ H                     12.2538   5.20057   11.6805
+ H                     10.7463   5.38229   12.6936
+ H                     12.1707   4.90012   14.6843
+ H                     13.4605   4.30384   13.6366
+ H                     10.9777   1.6331    12.8232
+ H                     12.5855   2.06161   12.3489
+ H                     16.0673   1.17338   11.5057
+ H                     15.9037   0.1526    10.0384
+ H                     18.2242  -0.3868    10.1041
+ H                     18.2968   0.2057    11.6346
+ H                     18.0612   2.66764   8.49299
+ H                     18.0218   3.5596    10.1526
+ H                     12.5744   1.00365   7.67796
+ H                     14.0936   1.60043   8.15254
+ H                     14.6194  -1.0039    8.03616
+ H                     12.8785  -1.3001    8.06617
+ H                     13.4209   0.29807   11.4482
+ H                     12.006   -0.4992    10.7908
+ H                     10.5108   1.83729   9.20021
+ S                     2.25875   6.06581   6.15355
+ S                     4.14063   6.17315   5.97153
+ S                     4.95999   4.25573   6.26858
+ S                     6.86805   4.05188   6.87505
+ S                     8.7219    3.2999    6.45078
+ S                     8.75562   2.3685    7.58734
+
  ITRead=  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
  ITRead=  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
  ITRead=  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
@@ -361,7 +361,7 @@
  AtZNuc=  16.0000000  16.0000000  16.0000000  16.0000000  16.0000000  16.0000000
  Leave Link  101 at Tue May  4 23:05:04 2021, MaxMem=   100000000 cpu:               0.3 elap:               0.1
  (Enter /home/App/g16.b01/g16/l202.exe)
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -499,7 +499,7 @@
  Full point group                 C1      NOp   1
  Largest Abelian subgroup         C1      NOp   1
  Largest concise Abelian subgroup C1      NOp   1
-                         Standard orientation:                         
+                         Standard orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -688,7 +688,7 @@
  No special actions if energy rises.
 
  Cycle   1  Pass 1  IDiag  1:
- E=  154.151479906404    
+ E=  154.151479906404
  DIIS: error= 2.57D-01 at cycle   1 NSaved=   1.
  NSaved= 1 IEnMin= 1 EnMin=  154.151479906404     IErMin= 1 ErrMin= 2.57D-01
  ErrMax= 2.57D-01  0.00D+00 EMaxC= 1.00D-01 BMatC= 3.94D+01 BMatP= 3.94D+01
@@ -9927,7 +9927,7 @@
  SCF Done:  E(UPM6D3) =   89.1509489517     A.U. after  513 cycles
             NFock=512  Conv=0.43D-05     -V/T= 1.1201
  <Sx>= 0.0000 <Sy>= 0.0000 <Sz>= 0.5000 <S**2>= 0.7556 S= 0.5028
- <L.S>=  0.00000000000    
+ <L.S>=  0.00000000000
  KE=-7.423628436538D+02 PE=-1.134284250934D+04 EE= 5.918664066051D+03
  Annihilation of the first spin contaminant:
  S**2 before annihilation     0.7556,   after     0.7500
@@ -10408,9 +10408,9 @@
  Initial command:
  /home/App/g16.b01/g16/l1.exe "/home/***/deepmd/tmp/fp/40456a50-ffbd-432d-b2f5-df431ae9adf6/task.000.000027/Gau-23732.inp" -scrdir="/home/***/deepmd/tmp/fp/40456a50-ffbd-432d-b2f5-df431ae9adf6/task.000.000027/"
  Entering Link 1 = /home/App/g16.b01/g16/l1.exe PID=     23747.
-  
+
  Copyright (c) 1988-2017, Gaussian, Inc.  All Rights Reserved.
-  
+
  This is part of the Gaussian(R) 16 program.  It is based on
  the Gaussian(R) 09 system (copyright 2009, Gaussian, Inc.),
  the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
@@ -10423,28 +10423,28 @@
  University), and the Gaussian 82(TM) system (copyright 1983,
  Carnegie Mellon University). Gaussian is a federally registered
  trademark of Gaussian, Inc.
-  
+
  This software contains proprietary and confidential information,
  including trade secrets, belonging to Gaussian, Inc.
-  
+
  This software is provided under written license and may be
  used, copied, transmitted, or stored only in accord with that
  written license.
-  
+
  The following legend is applicable only to US Government
  contracts under FAR:
-  
+
                     RESTRICTED RIGHTS LEGEND
-  
+
  Use, reproduction and disclosure by the US Government is
  subject to restrictions as set forth in subparagraphs (a)
  and (c) of the Commercial Computer Software - Restricted
  Rights clause in FAR 52.227-19.
-  
+
  Gaussian, Inc.
  340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
-  
-  
+
+
  ---------------------------------------------------------------
  Warning -- This program may not be used in any manner that
  competes with the business of Gaussian, Inc. or will provide
@@ -10457,30 +10457,30 @@
  licensee that it is not a competitor of Gaussian, Inc. and that
  it will not use this program in any manner prohibited above.
  ---------------------------------------------------------------
-  
+
 
  Cite this work as:
  Gaussian 16, Revision B.01,
- M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
- M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, 
- G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich, 
- J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian, 
- J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young, 
- F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone, 
- T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega, 
- G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda, 
- J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai, 
- T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta, 
- F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin, 
- V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand, 
- K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar, 
- J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi, 
- J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas, 
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria,
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone,
+ G. A. Petersson, H. Nakatsuji, X. Li, M. Caricato, A. V. Marenich,
+ J. Bloino, B. G. Janesko, R. Gomperts, B. Mennucci, H. P. Hratchian,
+ J. V. Ortiz, A. F. Izmaylov, J. L. Sonnenberg, D. Williams-Young,
+ F. Ding, F. Lipparini, F. Egidi, J. Goings, B. Peng, A. Petrone,
+ T. Henderson, D. Ranasinghe, V. G. Zakrzewski, J. Gao, N. Rega,
+ G. Zheng, W. Liang, M. Hada, M. Ehara, K. Toyota, R. Fukuda,
+ J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. Kitao, H. Nakai,
+ T. Vreven, K. Throssell, J. A. Montgomery, Jr., J. E. Peralta,
+ F. Ogliaro, M. J. Bearpark, J. J. Heyd, E. N. Brothers, K. N. Kudin,
+ V. N. Staroverov, T. A. Keith, R. Kobayashi, J. Normand,
+ K. Raghavachari, A. P. Rendell, J. C. Burant, S. S. Iyengar,
+ J. Tomasi, M. Cossi, J. M. Millam, M. Klene, C. Adamo, R. Cammi,
+ J. W. Ochterski, R. L. Martin, K. Morokuma, O. Farkas,
  J. B. Foresman, and D. J. Fox, Gaussian, Inc., Wallingford CT, 2016.
- 
+
  ******************************************
  Gaussian 16:  ES64L-G16RevB.01 20-Dec-2017
-                 4-May-2021 
+                 4-May-2021
  ******************************************
  %chk=83696cb8-ace5-11eb-8c2f-f48e38bfc5f8.chk
  %nproc=2
@@ -10780,7 +10780,7 @@
 
  Leave Link  103 at Tue May  4 23:05:42 2021, MaxMem=   100000000 cpu:               0.1 elap:               0.0
  (Enter /home/App/g16.b01/g16/l202.exe)
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -10919,7 +10919,7 @@
  RotChk:  IX=0 Diff= 1.94D-15
  Largest Abelian subgroup         C1      NOp   1
  Largest concise Abelian subgroup C1      NOp   1
-                         Standard orientation:                         
+                         Standard orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -11111,7 +11111,7 @@
  No special actions if energy rises.
 
  Cycle   1  Pass 1  IDiag  1:
- E=  89.1509492241794    
+ E=  89.1509492241794
  DIIS: error= 1.16D-05 at cycle   1 NSaved=   1.
  NSaved= 1 IEnMin= 1 EnMin=  89.1509492241794     IErMin= 1 ErrMin= 1.16D-05
  ErrMax= 1.16D-05  0.00D+00 EMaxC= 1.00D-01 BMatC= 3.55D-08 BMatP= 3.55D-08
@@ -19408,7 +19408,7 @@
  SCF Done:  E(UPM6D3) =   89.1509516954     A.U. after  471 cycles
             NFock=470  Conv=0.64D-08     -V/T= 1.1201
  <Sx>= 0.0000 <Sy>= 0.0000 <Sz>= 0.5000 <S**2>= 0.7548 S= 0.5024
- <L.S>=  0.00000000000    
+ <L.S>=  0.00000000000
  KE=-7.423627633969D+02 PE=-1.134284486779D+04 EE= 5.918666346989D+03
  Annihilation of the first spin contaminant:
  S**2 before annihilation     0.7548,   after     0.7500
@@ -20785,10 +20785,10 @@
    Y126       4.47582  -0.52654   0.00000  -0.00020  -0.00019   4.47563
    Z126      14.33799   0.49106   0.00000   0.00019   0.00020  14.33819
          Item               Value     Threshold  Converged?
- Maximum Force            ********     0.000450     NO 
- RMS     Force            ********     0.000300     NO 
- Maximum Displacement     0.207321     0.001800     NO 
- RMS     Displacement     0.015432     0.001200     NO 
+ Maximum Force            ********     0.000450     NO
+ RMS     Force            ********     0.000300     NO
+ Maximum Displacement     0.207321     0.001800     NO
+ RMS     Displacement     0.015432     0.001200     NO
  Predicted change in Energy=-4.460857D+02
  GradGradGradGradGradGradGradGradGradGradGradGradGradGradGradGradGradGrad
 

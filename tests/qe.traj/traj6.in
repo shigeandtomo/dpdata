@@ -21,7 +21,7 @@
   celldm(1) = 23.5170,
   nat       = 2,
   ntyp      = 2,
-  ecutwfc   = 85.00D0, 
+  ecutwfc   = 85.00D0,
   ecfixed   = 130.D0, ! effective cutoff value
   q2sigma   = 15.D0,
   qcutz     = 200.D0,
@@ -55,7 +55,7 @@
   wf_q   = 500.D0,
   wf_friction = 0.3d0,
 /
-!REF_CELL_PARAMETERS {bohr} 
+!REF_CELL_PARAMETERS {bohr}
 !   23.920   0.00000000    0.00000000
 !   0.00    23.920         0.00
 !   0.00    0.00          23.920

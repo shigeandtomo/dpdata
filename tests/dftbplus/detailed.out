@@ -4,7 +4,7 @@ Calculation with static geometry
 
 
 ********************************************************************************
- iSCC Total electronic   Diff electronic      SCC error    
+ iSCC Total electronic   Diff electronic      SCC error
    88   -0.33554958E+01   -0.31884693E-07    0.11352275E-06
 ********************************************************************************
 
@@ -84,5 +84,3 @@ Maximal derivative component:        0.188038E-01 au
 
 Dipole moment:   -0.06792979   -0.20495079   -0.40960550 au
 Dipole moment:   -0.17266032   -0.52093298   -1.04111341 Debye
-
-

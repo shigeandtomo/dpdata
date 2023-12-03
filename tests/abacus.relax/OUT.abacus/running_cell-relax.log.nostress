@@ -1,23 +1,23 @@
-                                                                                     
+
                               ABACUS v3.3.4
 
-               Atomic-orbital Based Ab-initio Computation at UStc                    
+               Atomic-orbital Based Ab-initio Computation at UStc
 
-                     Website: http://abacus.ustc.edu.cn/                             
-               Documentation: https://abacus.deepmodeling.com/                       
-                  Repository: https://github.com/abacusmodeling/abacus-develop       
-                              https://github.com/deepmodeling/abacus-develop         
+                     Website: http://abacus.ustc.edu.cn/
+               Documentation: https://abacus.deepmodeling.com/
+                  Repository: https://github.com/abacusmodeling/abacus-develop
+                              https://github.com/deepmodeling/abacus-develop
                       Commit: e0530a7ae (Tue Sep 19 10:10:45 2023 +0800)
 
     Start Time is Tue Oct 10 14:36:36 2023
-                                                                                     
+
  ------------------------------------------------------------------------------------
 
  READING GENERAL INFORMATION
                            global_out_dir = OUT.ABACUS/
                            global_in_card = INPUT
-                               pseudo_dir = 
-                              orbital_dir = 
+                               pseudo_dir =
+                              orbital_dir =
                                     DRANK = 1
                                     DSIZE = 2
                                    DCOLOR = 1
@@ -333,9 +333,9 @@
                              nRow_in_proc = 26
                              nCol_in_proc = 13
 receiver_size is 676 ; receiver_size of each process is:
-338 338 
+338 338
 sender_size is 676 ; sender_size of each process is:
-338 338 
+338 338
                                  init_chg = atomic
  DONE : INIT SCF Time : 0.288423 (SEC)
 
@@ -358,7 +358,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.180751569625
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2013293385      -206.8246961780
 E_Harris         -15.2425400057      -207.3853960707
@@ -373,7 +373,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.156065124268
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2013815120      -206.8254060345
 E_Harris         -14.9858718979      -203.8932473090
@@ -388,7 +388,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.126809290852
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2150325554      -207.0111380095
 E_Harris         -15.2614471843      -207.6426414320
@@ -403,7 +403,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0297310465632
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2172217249      -207.0409231882
 E_Harris         -15.2632171873      -207.6667235583
@@ -418,7 +418,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0204748350332
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2174675539      -207.0442678629
 E_Harris         -15.2150578457      -207.0114821006
@@ -433,7 +433,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00358291298089
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175843784      -207.0458573417
 E_Harris         -15.2144099768      -207.0026673922
@@ -448,7 +448,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000137852108918
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175868493      -207.0458909609
 E_Harris         -15.2179842616      -207.0512980320
@@ -463,7 +463,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000156704082002
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175868470      -207.0458909294
 E_Harris         -15.2175271722      -207.0450790117
@@ -478,7 +478,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000113776248293
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175868415      -207.0458908541
 E_Harris         -15.2176057193      -207.0461476993
@@ -493,7 +493,7 @@ eigenvalues were copied to ekb
 
  Density error is 6.11456847146e-06
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175868445      -207.0458908947
 E_Harris         -15.2176033874      -207.0461159728
@@ -508,7 +508,7 @@ eigenvalues were copied to ekb
 
  Density error is 3.79671375115e-06
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175868445      -207.0458908949
 E_Harris         -15.2175858517      -207.0458773876
@@ -523,7 +523,7 @@ eigenvalues were copied to ekb
 
  Density error is 2.1688243861e-09
 ----------------------------------------------------------
-    Energy           Rydberg                 eV         
+    Energy           Rydberg                 eV
 ----------------------------------------------------------
 E_KohnSham           -15.2175868445      -207.0458908947
 E_KS(sigma->0)       -15.2099423108      -206.9418816778
@@ -638,9 +638,9 @@ E_Fermi               -0.2980747965        -4.0555156632
                              nRow_in_proc = 26
                              nCol_in_proc = 13
 receiver_size is 676 ; receiver_size of each process is:
-338 338 
+338 338
 sender_size is 676 ; sender_size of each process is:
-338 338 
+338 338
  DONE : INIT SCF Time : 2.74642 (SEC)
 
 
@@ -652,7 +652,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0168954682260
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2175193830      -207.0449730344
 E_Harris         -15.2179258264      -207.0505029798
@@ -667,7 +667,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0518353196815
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2172250690      -207.0409686875
 E_Harris         -15.2216102024      -207.1006314869
@@ -682,7 +682,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00105868740176
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178444267      -207.0493954808
 E_Harris         -15.2054770305      -206.8811284235
@@ -697,7 +697,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00100940956423
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178436236      -207.0493845539
 E_Harris         -15.2179619963      -207.0509950967
@@ -712,7 +712,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000251820456033
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178448391      -207.0494010914
 E_Harris         -15.2181672624      -207.0537878854
@@ -727,7 +727,7 @@ eigenvalues were copied to ekb
 
  Density error is 7.94322566771e-05
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178448951      -207.0494018540
 E_Harris         -15.2179378285      -207.0506662780
@@ -742,7 +742,7 @@ eigenvalues were copied to ekb
 
  Density error is 1.96701255220e-06
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178448967      -207.0494018751
 E_Harris         -15.2178128580      -207.0489659664
@@ -757,7 +757,7 @@ eigenvalues were copied to ekb
 
  Density error is 6.23610651249e-07
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2178448967      -207.0494018753
 E_Harris         -15.2178453059      -207.0494074433
@@ -772,7 +772,7 @@ eigenvalues were copied to ekb
 
  Density error is 2.92360923727e-08
 ----------------------------------------------------------
-    Energy           Rydberg                 eV         
+    Energy           Rydberg                 eV
 ----------------------------------------------------------
 E_KohnSham           -15.2178448967      -207.0494018751
 E_KS(sigma->0)       -15.2102395884      -206.9459263474
@@ -889,9 +889,9 @@ E_Fermi               -0.2968701786        -4.0391259950
                              nRow_in_proc = 26
                              nCol_in_proc = 13
 receiver_size is 676 ; receiver_size of each process is:
-338 338 
+338 338
 sender_size is 676 ; sender_size of each process is:
-338 338 
+338 338
  DONE : INIT SCF Time : 4.81331 (SEC)
 
 
@@ -903,7 +903,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00452318833251
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179529883      -207.0508725373
 E_Harris         -15.2179805856      -207.0512480174
@@ -918,7 +918,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0126477900130
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179373427      -207.0506596677
 E_Harris         -15.2187956089      -207.0623369786
@@ -933,7 +933,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000229908558519
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179750967      -207.0511733374
 E_Harris         -15.2155772307      -207.0185486963
@@ -948,7 +948,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000176918130049
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179750604      -207.0511728440
 E_Harris         -15.2179890190      -207.0513627592
@@ -963,7 +963,7 @@ eigenvalues were copied to ekb
 
  Density error is 8.06492625182e-05
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179751029      -207.0511734217
 E_Harris         -15.2180437237      -207.0521070555
@@ -978,7 +978,7 @@ eigenvalues were copied to ekb
 
  Density error is 2.15735574673e-05
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179751088      -207.0511735013
 E_Harris         -15.2179877529      -207.0513455330
@@ -993,7 +993,7 @@ eigenvalues were copied to ekb
 
  Density error is 7.77502128777e-07
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179751089      -207.0511735026
 E_Harris         -15.2179663369      -207.0510541546
@@ -1008,7 +1008,7 @@ eigenvalues were copied to ekb
 
  Density error is 6.29521796612e-08
 ----------------------------------------------------------
-    Energy           Rydberg                 eV         
+    Energy           Rydberg                 eV
 ----------------------------------------------------------
 E_KohnSham           -15.2179751089      -207.0511735028
 E_KS(sigma->0)       -15.2104340893      -206.9485726681
@@ -1125,9 +1125,9 @@ E_Fermi               -0.2952667970        -4.0173108700
                              nRow_in_proc = 26
                              nCol_in_proc = 13
 receiver_size is 676 ; receiver_size of each process is:
-338 338 
+338 338
 sender_size is 676 ; sender_size of each process is:
-338 338 
+338 338
  DONE : INIT SCF Time : 6.77403 (SEC)
 
 
@@ -1139,7 +1139,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0210093305713
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2174740267      -207.0443559304
 E_Harris         -15.2180946308      -207.0527996824
@@ -1154,7 +1154,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.0520812264530
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2173695919      -207.0429350218
 E_Harris         -15.2151104840      -207.0121982820
@@ -1169,7 +1169,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00255897180276
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179722664      -207.0511348291
 E_Harris         -15.2285489496      -207.1950379867
@@ -1184,7 +1184,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.00152160816587
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179745476      -207.0511658660
 E_Harris         -15.2184116348      -207.0571127427
@@ -1199,7 +1199,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000884467080098
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179752767      -207.0511757857
 E_Harris         -15.2176581299      -207.0468607828
@@ -1214,7 +1214,7 @@ eigenvalues were copied to ekb
 
  Density error is 0.000151921968907
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179755488      -207.0511794881
 E_Harris         -15.2177962138      -207.0487395102
@@ -1229,7 +1229,7 @@ eigenvalues were copied to ekb
 
  Density error is 4.87779044592e-06
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179755535      -207.0511795525
 E_Harris         -15.2179991669      -207.0515008297
@@ -1244,7 +1244,7 @@ eigenvalues were copied to ekb
 
  Density error is 5.88489536041e-06
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179755536      -207.0511795533
 E_Harris         -15.2179802675      -207.0512436900
@@ -1259,7 +1259,7 @@ eigenvalues were copied to ekb
 
  Density error is 4.52854000969e-07
 ------------------------------------------------------
-  Energy         Rydberg                 eV         
+  Energy         Rydberg                 eV
 ------------------------------------------------------
 E_KohnSham       -15.2179755536      -207.0511795533
 E_Harris         -15.2179745978      -207.0511665498
@@ -1274,7 +1274,7 @@ eigenvalues were copied to ekb
 
  Density error is 1.19233066338e-08
 ----------------------------------------------------------
-    Energy           Rydberg                 eV         
+    Energy           Rydberg                 eV
 ----------------------------------------------------------
 E_KohnSham           -15.2179755536      -207.0511795532
 E_KS(sigma->0)       -15.2104381464      -206.9486278675
@@ -1394,4 +1394,4 @@ Gint_Tools           cal_dpsir_ylm          0.94       11168   0.00    10.87
 
  Start  Time  : Tue Oct 10 14:36:36 2023
  Finish Time  : Tue Oct 10 14:36:45 2023
- Total  Time  : 0 h 0 mins 9 secs 
+ Total  Time  : 0 h 0 mins 9 secs

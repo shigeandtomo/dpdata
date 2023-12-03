@@ -1,21 +1,21 @@
-                                                                                     
-                             WELCOME TO ABACUS                                       
-                                                                                     
-               'Atomic-orbital Based Ab-initio Computation at UStc'                  
-                                                                                     
-                     Website: http://abacus.ustc.edu.cn/                             
-                                                                                     
+
+                             WELCOME TO ABACUS
+
+               'Atomic-orbital Based Ab-initio Computation at UStc'
+
+                     Website: http://abacus.ustc.edu.cn/
+
     Version: Parallel, in development
     Processor Number is 1
     Start Time is Thu Jun  9 13:13:06 2022
-                                                                                     
+
  ------------------------------------------------------------------------------------
 
  READING GENERAL INFORMATION
                            global_out_dir = OUT.autotest/
                            global_in_card = INPUT
-                               pseudo_dir = 
-                              orbital_dir = 
+                               pseudo_dir =
+                              orbital_dir =
                               pseudo_type = auto
                                     DRANK = 1
                                     DSIZE = 1
@@ -265,7 +265,7 @@
  DONE : LOCAL POTENTIAL Time : 0.0790216308087 (SEC)
 
 
- Init Non-Local PseudoPotential table : 
+ Init Non-Local PseudoPotential table :
  Init Non-Local-Pseudopotential done.
  DONE : NON-LOCAL POTENTIAL Time : 0.0908586103469 (SEC)
 
@@ -335,8 +335,8 @@
 
 
  ------------------------------------------------------------------------------------------------
- Energy              Potential           Kinetic             Temperature         
- -7.782469           -7.782469           0                   0                   
+ Energy              Potential           Kinetic             Temperature
+ -7.782469           -7.782469           0                   0
  ------------------------------------------------------------------------------------------------
 
 
@@ -377,14 +377,14 @@
 
  ><><><><><><><><><><><><><><><><><><><><><><
 
- atom    x              y              z              
- Si1     -0.72880473    +0.40857872    +0.10704247    
- Si2     +0.72880473    -0.40857872    -0.10704247    
+ atom    x              y              z
+ Si1     -0.72880473    +0.40857872    +0.10704247
+ Si2     +0.72880473    -0.40857872    -0.10704247
 
 
  ------------------------------------------------------------------------------------------------
- Energy              Potential           Kinetic             Temperature         
- -7.7824997          -7.7828098          0.0003100856        65.278113           
+ Energy              Potential           Kinetic             Temperature
+ -7.7824997          -7.7828098          0.0003100856        65.278113
  ------------------------------------------------------------------------------------------------
 
 
@@ -425,14 +425,14 @@
 
  ><><><><><><><><><><><><><><><><><><><><><><
 
- atom    x              y              z              
- Si1     -0.31603885    +0.17161348    +0.01480266    
- Si2     +0.31603885    -0.17161348    -0.01480266    
+ atom    x              y              z
+ Si1     -0.31603885    +0.17161348    +0.01480266
+ Si2     +0.31603885    -0.17161348    -0.01480266
 
 
  ------------------------------------------------------------------------------------------------
- Energy              Potential           Kinetic             Temperature         
- -7.7825506          -7.7833867          0.00083609165       176.01103           
+ Energy              Potential           Kinetic             Temperature
+ -7.7825506          -7.7833867          0.00083609165       176.01103
  ------------------------------------------------------------------------------------------------
 
 
@@ -473,14 +473,14 @@
 
  ><><><><><><><><><><><><><><><><><><><><><><
 
- atom    x              y              z              
- Si1     +0.20432445    -0.11739811    -0.05295552    
- Si2     -0.20432445    +0.11739811    +0.05295552    
+ atom    x              y              z
+ Si1     +0.20432445    -0.11739811    -0.05295552
+ Si2     -0.20432445    +0.11739811    +0.05295552
 
 
  ------------------------------------------------------------------------------------------------
- Energy              Potential           Kinetic             Temperature         
- -7.7825562          -7.7834579          0.00090165915       189.81406           
+ Energy              Potential           Kinetic             Temperature
+ -7.7825562          -7.7834579          0.00090165915       189.81406
  ------------------------------------------------------------------------------------------------
 
 
@@ -524,4 +524,4 @@
 
  Start  Time  : Thu Jun  9 13:13:06 2022
  Finish Time  : Thu Jun  9 13:13:08 2022
- Total  Time  : 0 h 0 mins 2 secs 
+ Total  Time  : 0 h 0 mins 2 secs

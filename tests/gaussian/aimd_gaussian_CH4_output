@@ -2,10 +2,10 @@
  Initial command:
  /home/smc/package/Gaussian/g09/l1.exe /home/smc/package/Gaussian/tmp/Gau-25373.inp -scrdir=/home/smc/package/Gaussian/tmp/
  Entering Link 1 = /home/smc/package/Gaussian/g09/l1.exe PID=     25375.
-  
+
  Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2010,
             Gaussian, Inc.  All Rights Reserved.
-  
+
  This is part of the Gaussian(R) 09 program.  It is based on
  the Gaussian(R) 03 system (copyright 2003, Gaussian, Inc.),
  the Gaussian(R) 98 system (copyright 1998, Gaussian, Inc.),
@@ -17,28 +17,28 @@
  University), and the Gaussian 82(TM) system (copyright 1983,
  Carnegie Mellon University). Gaussian is a federally registered
  trademark of Gaussian, Inc.
-  
+
  This software contains proprietary and confidential information,
  including trade secrets, belonging to Gaussian, Inc.
-  
+
  This software is provided under written license and may be
  used, copied, transmitted, or stored only in accord with that
  written license.
-  
+
  The following legend is applicable only to US Government
  contracts under FAR:
-  
+
                     RESTRICTED RIGHTS LEGEND
-  
+
  Use, reproduction and disclosure by the US Government is
  subject to restrictions as set forth in subparagraphs (a)
  and (c) of the Commercial Computer Software - Restricted
  Rights clause in FAR 52.227-19.
-  
+
  Gaussian, Inc.
  340 Quinnipiac St., Bldg. 40, Wallingford CT 06492
-  
-  
+
+
  ---------------------------------------------------------------
  Warning -- This program may not be used in any manner that
  competes with the business of Gaussian, Inc. or will provide
@@ -51,30 +51,30 @@
  licensee that it is not a competitor of Gaussian, Inc. and that
  it will not use this program in any manner prohibited above.
  ---------------------------------------------------------------
-  
+
 
  Cite this work as:
  Gaussian 09, Revision B.01,
- M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria, 
- M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, B. Mennucci, 
- G. A. Petersson, H. Nakatsuji, M. Caricato, X. Li, H. P. Hratchian, 
- A. F. Izmaylov, J. Bloino, G. Zheng, J. L. Sonnenberg, M. Hada, 
- M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, 
- Y. Honda, O. Kitao, H. Nakai, T. Vreven, J. A. Montgomery, Jr., 
- J. E. Peralta, F. Ogliaro, M. Bearpark, J. J. Heyd, E. Brothers, 
- K. N. Kudin, V. N. Staroverov, T. Keith, R. Kobayashi, J. Normand, 
- K. Raghavachari, A. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi, 
- M. Cossi, N. Rega, J. M. Millam, M. Klene, J. E. Knox, J. B. Cross, 
- V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann, 
- O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski, 
- R. L. Martin, K. Morokuma, V. G. Zakrzewski, G. A. Voth, 
- P. Salvador, J. J. Dannenberg, S. Dapprich, A. D. Daniels, 
- O. Farkas, J. B. Foresman, J. V. Ortiz, J. Cioslowski, 
+ M. J. Frisch, G. W. Trucks, H. B. Schlegel, G. E. Scuseria,
+ M. A. Robb, J. R. Cheeseman, G. Scalmani, V. Barone, B. Mennucci,
+ G. A. Petersson, H. Nakatsuji, M. Caricato, X. Li, H. P. Hratchian,
+ A. F. Izmaylov, J. Bloino, G. Zheng, J. L. Sonnenberg, M. Hada,
+ M. Ehara, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima,
+ Y. Honda, O. Kitao, H. Nakai, T. Vreven, J. A. Montgomery, Jr.,
+ J. E. Peralta, F. Ogliaro, M. Bearpark, J. J. Heyd, E. Brothers,
+ K. N. Kudin, V. N. Staroverov, T. Keith, R. Kobayashi, J. Normand,
+ K. Raghavachari, A. Rendell, J. C. Burant, S. S. Iyengar, J. Tomasi,
+ M. Cossi, N. Rega, J. M. Millam, M. Klene, J. E. Knox, J. B. Cross,
+ V. Bakken, C. Adamo, J. Jaramillo, R. Gomperts, R. E. Stratmann,
+ O. Yazyev, A. J. Austin, R. Cammi, C. Pomelli, J. W. Ochterski,
+ R. L. Martin, K. Morokuma, V. G. Zakrzewski, G. A. Voth,
+ P. Salvador, J. J. Dannenberg, S. Dapprich, A. D. Daniels,
+ O. Farkas, J. B. Foresman, J. V. Ortiz, J. Cioslowski,
  and D. J. Fox, Gaussian, Inc., Wallingford CT, 2010.
- 
+
  ******************************************
  Gaussian 09:  EM64L-G09RevB.01 12-Aug-2010
-                15-Sep-2019 
+                15-Sep-2019
  ******************************************
  %CPU=0,1,2,3
  SetSPE:  set environment variable "MP_BIND" = "yes"
@@ -108,12 +108,12 @@
  ----------
  Symbolic Z-matrix:
  Charge =  0 Multiplicity = 1
- H                     5.36586   4.05415   3.59848 
- H                     3.92611   4.82628   4.42448 
- H                     5.5636    5.65033   4.43064 
- H                     5.28729   4.14347   5.36703 
- C                     5.01936   4.68879   4.44103 
- 
+ H                     5.36586   4.05415   3.59848
+ H                     3.92611   4.82628   4.42448
+ H                     5.5636    5.65033   4.43064
+ H                     5.28729   4.14347   5.36703
+ C                     5.01936   4.68879   4.44103
+
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
  ------------------------------------------------------------------------
  INPUT DATA FOR L121
@@ -124,7 +124,7 @@
  Random Number Generator Seed =  398465
  Time Step                    =  0.10000 femtosec
  Ficticious electronic mass   =  0.10000 amu
- MW individual basis funct.   = True 
+ MW individual basis funct.   = True
  Initial nuclear kin. energy  =  0.10000 hartree
  Initial electr. kin. energy  =  0.00000 hartree
    Initial electr. KE scheme  =  0
@@ -136,8 +136,8 @@
 
  Follow Rxn Path (DVV)        = False
  Read in converged density
- Projection of angular mom.   = True 
- Rotate density with nuclei   = True 
+ Projection of angular mom.   = True
+ Rotate density with nuclei   = True
  ------------------------------------------------------------------------
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
  ---------------------------------------------------------------------------------------------------
@@ -150,7 +150,7 @@
       4      4  H        0   5.287288          4.143469          5.367026
       5      5  C        0   5.019365          4.688792          4.441028
  ---------------------------------------------------------------------------------------------------
-                         Z-Matrix orientation:                         
+                         Z-Matrix orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -328,7 +328,7 @@
  I=    4 X=  -2.221691759254D+12 Y=   6.476818289800D+13 Z=   7.516091801582D+13
  I=    5 X=  -5.917753002396D+13 Y=  -1.613890300986D+14 Z=  -1.021592817485D+14
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -435,7 +435,7 @@
  I=    4 X=  -2.454282941785D+12 Y=   6.529214009068D+13 Z=   7.467432298561D+13
  I=    5 X=  -5.886756849421D+13 Y=  -1.615066318989D+14 Z=  -1.019312183020D+14
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -542,7 +542,7 @@
  I=    4 X=  -2.692344333154D+12 Y=   6.583020549652D+13 Z=   7.407352433210D+13
  I=    5 X=  -5.841453944500D+13 Y=  -1.613304234564D+14 Z=  -1.014823362166D+14
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -649,7 +649,7 @@
  I=    4 X=  -2.934972181022D+12 Y=   6.638046031352D+13 Z=   7.335795102972D+13
  I=    5 X=  -5.783186026773D+13 Y=  -1.608651728731D+14 Z=  -1.007984054156D+14
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -756,7 +756,7 @@
  I=    4 X=  -3.181208287915D+12 Y=   6.694073845531D+13 Z=   7.252739129633D+13
  I=    5 X=  -5.713365632806D+13 Y=  -1.601155365686D+14 Z=  -9.986546500274D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -863,7 +863,7 @@
  I=    4 X=  -3.430036584615D+12 Y=   6.750864109864D+13 Z=   7.158200521296D+13
  I=    5 X=  -5.633470140977D+13 Y=  -1.590861545315D+14 Z=  -9.867007011567D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -970,7 +970,7 @@
  I=    4 X=  -3.680383711736D+12 Y=   6.808155731298D+13 Z=   7.052233862833D+13
  I=    5 X=  -5.545032866493D+13 Y=  -1.577818045449D+14 Z=  -9.719958476347D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1077,7 +1077,7 @@
  I=    4 X=  -3.931125487345D+12 Y=   6.865668847758D+13 Z=   6.934933780511D+13
  I=    5 X=  -5.449629427684D+13 Y=  -1.562076104712D+14 Z=  -9.544253328625D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1184,7 +1184,7 @@
  I=    4 X=  -4.181096298976D+12 Y=   6.923107255280D+13 Z=   6.806436193494D+13
  I=    5 X=  -5.348858413143D+13 Y=  -1.543692960988D+14 Z=  -9.338902081487D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1291,7 +1291,7 @@
  I=    4 X=  -4.429097862668D+12 Y=   6.980160654915D+13 Z=   6.666919202290D+13
  I=    5 X=  -5.244316226487D+13 Y=  -1.522734709107D+14 Z=  -9.103121727795D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1398,7 +1398,7 @@
  I=    4 X=  -4.673906267605D+12 Y=   7.036506843904D+13 Z=   6.516603722029D+13
  I=    5 X=  -5.137566633936D+13 Y=  -1.499279275708D+14 Z=  -8.836388047837D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1505,7 +1505,7 @@
  I=    4 X=  -4.914277272050D+12 Y=   7.091814029839D+13 Z=   6.355753976156D+13
  I=    5 X=  -5.030105986742D+13 Y=  -1.473419305645D+14 Z=  -8.538488833180D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1612,7 +1612,7 @@
  I=    4 X=  -5.148949511184D+12 Y=   7.145743244426D+13 Z=   6.184677779083D+13
  I=    5 X=  -4.923325324507D+13 Y=  -1.445264775206D+14 Z=  -8.209575363889D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1719,7 +1719,7 @@
  I=    4 X=  -5.376646507452D+12 Y=   7.197950668754D+13 Z=   6.003726417080D+13
  I=    5 X=  -4.818470652746D+13 Y=  -1.414945096492D+14 Z=  -7.850209145070D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1826,7 +1826,7 @@
  I=    4 X=  -5.596080593090D+12 Y=   7.248089786543D+13 Z=   5.813294033621D+13
  I=    5 X=  -4.716602859222D+13 Y=  -1.382610458265D+14 Z=  -7.461400390110D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -1933,7 +1933,7 @@
  I=    4 X=  -5.805959832655D+12 Y=   7.295813484918D+13 Z=   5.613816500519D+13
  I=    5 X=  -4.618559456316D+13 Y=  -1.348432252018D+14 Z=  -7.044635230616D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2040,7 +2040,7 @@
  I=    4 X=  -6.004995756180D+12 Y=   7.340776199501D+13 Z=   5.405769797958D+13
  I=    5 X=  -4.524921181167D+13 Y=  -1.312602498426D+14 Z=  -6.601888974714D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2147,7 +2147,7 @@
  I=    4 X=  -6.191909995697D+12 Y=   7.382636041275D+13 Z=   5.189667896471D+13
  I=    5 X=  -4.435986719745D+13 Y=  -1.275332162285D+14 Z=  -6.135622310973D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2254,7 +2254,7 @@
  I=    4 X=  -6.365439551816D+12 Y=   7.421056777487D+13 Z=   4.966060100567D+13
  I=    5 X=  -4.351758550817D+13 Y=  -1.236848271592D+14 Z=  -5.648757694857D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2361,7 +2361,7 @@
  I=    4 X=  -6.524340957404D+12 Y=   7.455709579130D+13 Z=   4.735527884858D+13
  I=    5 X=  -4.271942200903D+13 Y=  -1.197389858044D+14 Z=  -5.144634419738D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2468,7 +2468,7 @@
  I=    4 X=  -6.667393857381D+12 Y=   7.486274501965D+13 Z=   4.498681293249D+13
  I=    5 X=  -4.195960258848D+13 Y=  -1.157202856085D+14 Z=  -4.626942533267D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z
@@ -2575,7 +2575,7 @@
  I=    4 X=  -6.793404809264D+12 Y=   7.512441731773D+13 Z=   4.256155008479D+13
  I=    5 X=  -4.122981348439D+13 Y=  -1.116534220321D+14 Z=  -4.099637680301D+13
  TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ-TRJ
-                          Input orientation:                          
+                          Input orientation:
  ---------------------------------------------------------------------
  Center     Atomic      Atomic             Coordinates (Angstroms)
  Number     Number       Type             X           Y           Z

@@ -1,22 +1,22 @@
-                                                                                     
-                              ABACUS v3.2                                            
 
-               Atomic-orbital Based Ab-initio Computation at UStc                    
+                              ABACUS v3.2
 
-                     Website: http://abacus.ustc.edu.cn/                             
-               Documentation: https://abacus.deepmodeling.com/                       
-                  Repository: https://github.com/abacusmodeling/abacus-develop       
-                              https://github.com/deepmodeling/abacus-develop         
+               Atomic-orbital Based Ab-initio Computation at UStc
+
+                     Website: http://abacus.ustc.edu.cn/
+               Documentation: https://abacus.deepmodeling.com/
+                  Repository: https://github.com/abacusmodeling/abacus-develop
+                              https://github.com/deepmodeling/abacus-develop
 
     Start Time is Wed Apr 12 12:06:58 2023
-                                                                                     
+
  ------------------------------------------------------------------------------------
 
  READING GENERAL INFORMATION
                            global_out_dir = OUT.Sn_nve/
                            global_in_card = INPUT
-                               pseudo_dir = 
-                              orbital_dir = 
+                               pseudo_dir =
+                              orbital_dir =
                                     DRANK = 1
                                     DSIZE = 8
                                    DCOLOR = 1
@@ -432,9 +432,9 @@
                              nRow_in_proc = 353
                              nCol_in_proc = 161
 receiver_size is 529984 ; receiver_size of each process is:
-78375 72000 62250 60375 73777 67776 58598 56833 
+78375 72000 62250 60375 73777 67776 58598 56833
 sender_size is 551600 ; sender_size of each process is:
-78375 71250 76171 71198 67776 67070 70464 49296 
+78375 71250 76171 71198 67776 67070 70464 49296
 
  Warning_Memory_Consuming allocated:  LOC::A2A_receiv 8.09 MB
 
@@ -633,12 +633,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.93064          +0.17955843         +300                +38.054528          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.93064          +0.17955843         +300                +38.054528
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.054528 kbar 
-Virial Term is +36.689617 kbar 
-Kinetic Term is +1.3649103 kbar 
+Virtual Pressure is +38.054528 kbar
+Virial Term is +36.689617 kbar
+Kinetic Term is +1.3649103 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -647,9 +647,9 @@ Kinetic Term is +1.3649103 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+37.967985     -0.18772216    -0.017046138   
--0.18772216    +37.965054     -0.27587951    
--0.017046138   -0.27587951    +38.230543     
++37.967985     -0.18772216    -0.017046138
+-0.18772216    +37.965054     -0.27587951
+-0.017046138   -0.27587951    +38.230543
 
 
 
@@ -701,9 +701,9 @@ Kinetic Term is +1.3649103 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +9.34325 (SEC)
 
 
@@ -882,12 +882,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.93048          +0.17939809         +299.7321           +38.056403          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.93048          +0.17939809         +299.7321           +38.056403
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.056403 kbar 
-Virial Term is +36.692712 kbar 
-Kinetic Term is +1.3636915 kbar 
+Virtual Pressure is +38.056403 kbar
+Virial Term is +36.692712 kbar
+Kinetic Term is +1.3636915 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -896,9 +896,9 @@ Kinetic Term is +1.3636915 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+37.970247     -0.26952066    -0.14184686    
--0.26952066    +37.966807     -0.1030719     
--0.14184686    -0.1030719     +38.232155     
++37.970247     -0.26952066    -0.14184686
+-0.26952066    +37.966807     -0.1030719
+-0.14184686    -0.1030719     +38.232155
 
 
 
@@ -950,9 +950,9 @@ Kinetic Term is +1.3636915 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +17.437 (SEC)
 
 
@@ -1092,12 +1092,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.93             +0.1789161          +298.92681          +38.062696          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.93             +0.1789161          +298.92681          +38.062696
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.062696 kbar 
-Virial Term is +36.702668 kbar 
-Kinetic Term is +1.3600276 kbar 
+Virtual Pressure is +38.062696 kbar
+Virial Term is +36.702668 kbar
+Kinetic Term is +1.3600276 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -1106,9 +1106,9 @@ Kinetic Term is +1.3600276 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+37.977248     -0.35054614    -0.26632338    
--0.35054614    +37.973613     +0.069522552   
--0.26632338    +0.069522552   +38.237227     
++37.977248     -0.35054614    -0.26632338
+-0.35054614    +37.973613     +0.069522552
+-0.26632338    +0.069522552   +38.237227
 
 
 
@@ -1162,9 +1162,9 @@ Kinetic Term is +1.3600276 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +23.5582 (SEC)
 
 
@@ -1304,12 +1304,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.9292           +0.17811615         +297.59028          +38.073713          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.9292           +0.17811615         +297.59028          +38.073713
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.073713 kbar 
-Virial Term is +36.719766 kbar 
-Kinetic Term is +1.3539468 kbar 
+Virtual Pressure is +38.073713 kbar
+Virial Term is +36.719766 kbar
+Kinetic Term is +1.3539468 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -1318,9 +1318,9 @@ Kinetic Term is +1.3539468 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+37.989265     -0.43106741    -0.3908722     
--0.43106741    +37.985787     +0.24246337    
--0.3908722     +0.24246337    +38.246087     
++37.989265     -0.43106741    -0.3908722
+-0.43106741    +37.985787     +0.24246337
+-0.3908722     +0.24246337    +38.246087
 
 
 
@@ -1374,9 +1374,9 @@ Kinetic Term is +1.3539468 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +29.7281 (SEC)
 
 
@@ -1516,12 +1516,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.92808          +0.1770017          +295.72829          +38.088548          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.92808          +0.1770017          +295.72829          +38.088548
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.088548 kbar 
-Virial Term is +36.743073 kbar 
-Kinetic Term is +1.3454753 kbar 
+Virtual Pressure is +38.088548 kbar
+Virial Term is +36.743073 kbar
+Kinetic Term is +1.3454753 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -1530,9 +1530,9 @@ Kinetic Term is +1.3454753 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.005372     -0.51032173    -0.51434015    
--0.51032173    +38.002432     +0.41415132    
--0.51434015    +0.41415132    +38.25784      
++38.005372     -0.51032173    -0.51434015
+-0.51032173    +38.002432     +0.41415132
+-0.51434015    +0.41415132    +38.25784
 
 
 
@@ -1586,9 +1586,9 @@ Kinetic Term is +1.3454753 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +35.924 (SEC)
 
 
@@ -1741,12 +1741,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.92666          +0.17557886         +293.35107          +38.107831          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.92666          +0.17557886         +293.35107          +38.107831
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.107831 kbar 
-Virial Term is +36.773172 kbar 
-Kinetic Term is +1.3346597 kbar 
+Virtual Pressure is +38.107831 kbar
+Virial Term is +36.773172 kbar
+Kinetic Term is +1.3346597 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -1755,9 +1755,9 @@ Kinetic Term is +1.3346597 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.026159     -0.58888104    -0.63755158    
--0.58888104    +38.024158     +0.5857862     
--0.63755158    +0.5857862     +38.273177     
++38.026159     -0.58888104    -0.63755158
+-0.58888104    +38.024158     +0.5857862
+-0.63755158    +0.5857862     +38.273177
 
 
 
@@ -1811,9 +1811,9 @@ Kinetic Term is +1.3346597 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +42.6939 (SEC)
 
 
@@ -1953,12 +1953,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.92494          +0.17385609         +290.47273          +38.131023          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.92494          +0.17385609         +290.47273          +38.131023
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.131023 kbar 
-Virial Term is +36.809459 kbar 
-Kinetic Term is +1.3215641 kbar 
+Virtual Pressure is +38.131023 kbar
+Virial Term is +36.809459 kbar
+Kinetic Term is +1.3215641 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -1967,9 +1967,9 @@ Kinetic Term is +1.3215641 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.051071     -0.66585028    -0.75915728    
--0.66585028    +38.050414     +0.75551371    
--0.75915728    +0.75551371    +38.291584     
++38.051071     -0.66585028    -0.75915728
+-0.66585028    +38.050414     +0.75551371
+-0.75915728    +0.75551371    +38.291584
 
 
 
@@ -2023,9 +2023,9 @@ Kinetic Term is +1.3215641 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +48.8717 (SEC)
 
 
@@ -2165,12 +2165,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.92293          +0.17184581         +287.11402          +38.158191          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.92293          +0.17184581         +287.11402          +38.158191
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.158191 kbar 
-Virial Term is +36.851908 kbar 
-Kinetic Term is +1.306283 kbar 
+Virtual Pressure is +38.158191 kbar
+Virial Term is +36.851908 kbar
+Kinetic Term is +1.306283 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -2179,9 +2179,9 @@ Kinetic Term is +1.306283 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.080117     -0.74185595    -0.88008795    
--0.74185595    +38.081244     +0.92461652    
--0.88008795    +0.92461652    +38.313211     
++38.080117     -0.74185595    -0.88008795
+-0.74185595    +38.081244     +0.92461652
+-0.88008795    +0.92461652    +38.313211
 
 
 
@@ -2235,9 +2235,9 @@ Kinetic Term is +1.306283 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +55.0617 (SEC)
 
 
@@ -2390,12 +2390,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.92064          +0.16955985         +283.29471          +38.189028          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.92064          +0.16955985         +283.29471          +38.189028
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.189028 kbar 
-Virial Term is +36.900122 kbar 
-Kinetic Term is +1.2889062 kbar 
+Virtual Pressure is +38.189028 kbar
+Virial Term is +36.900122 kbar
+Kinetic Term is +1.2889062 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -2404,9 +2404,9 @@ Kinetic Term is +1.2889062 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.113012     -0.8158553     -0.99872796    
--0.8158553     +38.116329     +1.0908563     
--0.99872796    +1.0908563     +38.337743     
++38.113012     -0.8158553     -0.99872796
+-0.8158553     +38.116329     +1.0908563
+-0.99872796    +1.0908563     +38.337743
 
 
 
@@ -2460,9 +2460,9 @@ Kinetic Term is +1.2889062 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +61.799 (SEC)
 
 
@@ -2602,12 +2602,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.91809          +0.1670102          +279.03485          +38.223412          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.91809          +0.1670102          +279.03485          +38.223412
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.223412 kbar 
-Virial Term is +36.953887 kbar 
-Kinetic Term is +1.2695251 kbar 
+Virtual Pressure is +38.223412 kbar
+Virial Term is +36.953887 kbar
+Kinetic Term is +1.2695251 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -2616,9 +2616,9 @@ Kinetic Term is +1.2695251 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.149569     -0.88848724    -1.1160392     
--0.88848724    +38.155539     +1.2555666     
--1.1160392     +1.2555666     +38.365127     
++38.149569     -0.88848724    -1.1160392
+-0.88848724    +38.155539     +1.2555666
+-1.1160392     +1.2555666     +38.365127
 
 
 
@@ -2672,9 +2672,9 @@ Kinetic Term is +1.2695251 kbar
  nRow_in_proc                             = +353
  nCol_in_proc                             = +161
 receiver_size is +529984 ; receiver_size of each process is:
-+78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833 
++78375 +72000 +62250 +60375 +73777 +67776 +58598 +56833
 sender_size is +551600 ; sender_size of each process is:
-+78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296 
++78375 +71250 +76171 +71198 +67776 +67070 +70464 +49296
  DONE : INIT SCF Time : +67.9359 (SEC)
 
 
@@ -2814,12 +2814,12 @@ eigenvalues were copied to ekb
 
 
  ------------------------------------------------------------------------------------------------
- Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)     
- -452.75108          -452.91529          +0.16420979         +274.35601          +38.261045          
+ Energy (Ry)         Potential (Ry)      Kinetic (Ry)        Temperature (K)     Pressure (kbar)
+ -452.75108          -452.91529          +0.16420979         +274.35601          +38.261045
  ------------------------------------------------------------------------------------------------
-Virtual Pressure is +38.261045 kbar 
-Virial Term is +37.012808 kbar 
-Kinetic Term is +1.2482378 kbar 
+Virtual Pressure is +38.261045 kbar
+Virial Term is +37.012808 kbar
+Kinetic Term is +1.2482378 kbar
 
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
@@ -2828,9 +2828,9 @@ Kinetic Term is +1.2482378 kbar
 
  ><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 
-+38.189523     -0.95878581    -1.2305214     
--0.95878581    +38.198565     +1.4167145     
--1.2305214     +1.4167145     +38.395048     
++38.189523     -0.95878581    -1.2305214
+-0.95878581    +38.198565     +1.4167145
+-1.2305214     +1.4167145     +38.395048
 
 
 
@@ -2915,40 +2915,40 @@ Kinetic Term is +1.2482378 kbar
  ----------------------------------------------------------------------------------------
 
  NAME---------------|MEMORY(MB)--------
-total               +1137          
-ORB::Jl(x)          +606.4         
-LOC::A2A_sender     +125.1         
-Stress::dSH_GO      +65.7          
-LOC::A2A_receiv     +60.41         
-ORB::Table_SR&TR    +48.8          
-ChgMix::Rrho        +34.19         
-ChgMix::dRrho       +30.18         
-ChgMix::drho        +28.38         
-LOC::DM             +27.72         
-FFT::grid           +16.96         
-Force::dS_GO        +15.84         
-Force::dTVNL        +15.1          
-ORB::Table_NR       +8.051         
-Chg::rho            +4.532         
-Chg::rho_save       +4.175         
-Chg::rho_core       +4.055         
-Pot::veff_fix       +4.055         
-Pot::veff           +4.055         
-ChgMix::rho_save2   +4.055         
-SF::strucFac        +3.89          
-SF::eigts123        +3.677         
-GT::index2normal    +3.375         
-GT::index2ucell     +3.375         
-Chg::rhog           +2.184         
-Chg::rhog_save      +2.184         
-Chg::rhog_core      +2.184         
-Grid::AtomLink      +1.75          
-GT::which_atom      +1.239         
-GT::which_bigcell   +1.239         
-GT::which_unitcell  +1.239         
+total               +1137
+ORB::Jl(x)          +606.4
+LOC::A2A_sender     +125.1
+Stress::dSH_GO      +65.7
+LOC::A2A_receiv     +60.41
+ORB::Table_SR&TR    +48.8
+ChgMix::Rrho        +34.19
+ChgMix::dRrho       +30.18
+ChgMix::drho        +28.38
+LOC::DM             +27.72
+FFT::grid           +16.96
+Force::dS_GO        +15.84
+Force::dTVNL        +15.1
+ORB::Table_NR       +8.051
+Chg::rho            +4.532
+Chg::rho_save       +4.175
+Chg::rho_core       +4.055
+Pot::veff_fix       +4.055
+Pot::veff           +4.055
+ChgMix::rho_save2   +4.055
+SF::strucFac        +3.89
+SF::eigts123        +3.677
+GT::index2normal    +3.375
+GT::index2ucell     +3.375
+Chg::rhog           +2.184
+Chg::rhog_save      +2.184
+Chg::rhog_core      +2.184
+Grid::AtomLink      +1.75
+GT::which_atom      +1.239
+GT::which_bigcell   +1.239
+GT::which_unitcell  +1.239
  -------------   < 1.0 MB has been ignored ----------------
  ----------------------------------------------------------
 
  Start  Time  : Wed Apr 12 12:06:58 2023
  Finish Time  : Wed Apr 12 12:08:12 2023
- Total  Time  : 0 h 1 mins 14 secs 
+ Total  Time  : 0 h 1 mins 14 secs

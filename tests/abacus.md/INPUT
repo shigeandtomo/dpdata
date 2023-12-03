@@ -11,7 +11,7 @@ scf_thr                     1e-2
 scf_nmax                   50
 
 #Parameters (3.Basis)
-basis_type              lcao 
+basis_type              lcao
 gamma_only              1
 
 #Parameters (4.Smearing)
